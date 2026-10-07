@@ -63,6 +63,123 @@
     nav.replaceChildren(...links);
   }
 
+  const catalogRegistry = root.OrchestraCatalogData ||
+    (typeof module !== 'undefined' && module.exports && typeof require === 'function' ? require('./orchestra-catalog.js') : []);
+
+  function musicCatalog(bundle, base, pageUrl, registry = catalogRegistry) {
+    if (!Array.isArray(registry) || registry.length > 40) throw new Error('Music catalog is invalid.');
+    const current = new URL(base, pageUrl).href, playerRoot = new URL('.', pageUrl);
+    const ids = new Set();
+    function link(entry) {
+      if (!entry || typeof entry.label !== 'string' || !entry.label.trim()) throw new Error('A catalog view has no label.');
+      const target = safeUrl(entry.bundle, playerRoot.href), href = new URL(pageUrl);
+      href.search = ''; href.hash = ''; href.searchParams.set('bundle', target);
+      return {label:entry.label.slice(0,160), href:href.href, current:target === current};
+    }
+    const works = registry.map(work => {
+      if (!work || !/^[a-z][a-z0-9-]{0,63}$/.test(work.id || '') || ids.has(work.id) ||
+          typeof work.title !== 'string' || !work.title.trim() || typeof work.composer !== 'string' ||
+          !Array.isArray(work.movements) || work.movements.length > 128 ||
+          !Array.isArray(work.versions) || work.versions.length > 32) throw new Error('A catalog piece is invalid.');
+      ids.add(work.id);
+      const primary = link(work.primary), versions = work.versions.map(link);
+      const movementIds = new Set();
+      const movements = work.movements.map(movement => {
+        if (!movement) throw new Error('A catalog movement is invalid.');
+        const time = movement.firstBarTime == null ? movement.time : movement.firstBarTime;
+        if (!movement || typeof movement.id !== 'string' || movementIds.has(movement.id) ||
+            typeof movement.label !== 'string' || !Number.isFinite(time) || time < 0 ||
+            !['bar-following','navigation-only'].includes(movement.status)) throw new Error('A catalog movement is invalid.');
+        movementIds.add(movement.id);
+        const href = new URL(primary.href); href.searchParams.set('at', String(time));
+        return {id:movement.id,label:movement.label.slice(0,160),status:movement.status,time,href:href.href};
+      });
+      return {id:work.id,title:work.title.slice(0,160),composer:work.composer.slice(0,160),
+              durationLabel:String(work.durationLabel || ''),part:String(work.part || ''),
+              summary:String(work.summary || '').slice(0,500),primary,movements,versions,
+              current:primary.current || versions.some(view => view.current)};
+    });
+    const modes = modeLinksFor(bundle, base, pageUrl);
+    const known = new Set(works.flatMap(work => [work.primary, ...work.versions].map(view => new URL(view.href).searchParams.get('bundle'))));
+    const related = works.find(work => {
+      const family = new URL(new URL(work.primary.href).searchParams.get('bundle')).pathname.split('/research/learn/')[1]?.split('/')[0];
+      return family && new URL(current).pathname.includes('/research/learn/'+family+'/');
+    });
+    if (!known.has(current)) {
+      const own = link({label:'Current view',bundle:current});
+      if (related) {
+        related.current = true; related.versions.push(own);
+      } else {
+        works.push({id:'current-piece',title:String(bundle.title || 'Imported piece'),composer:'Your music',
+          part:'',durationLabel:Math.round(bundle.duration/60)+' min',summary:'Your currently opened pairing.',
+          primary:own,movements:[],versions:Object.values(modes),current:true});
+      }
+    }
+    return works;
+  }
+
+  function catalogChoices(catalog, query) {
+    const normalize = value => String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+    const needle = normalize(query).trim();
+    return catalog.filter(work => !needle || normalize([work.title,work.composer,work.part,work.summary,
+      ...work.movements.map(row => row.label+' '+row.status),...work.versions.map(row => row.label)].join(' ')).includes(needle));
+  }
+
+  function paintMusicCatalog(host, catalog, query, create, onChoose) {
+    const works = catalogChoices(catalog, query);
+    const elements = works.map(work => {
+      const card = create('article'); card.className = 'catalog-work'+(work.current ? ' current' : '');
+      function text(tag, value, className) {
+        const element = create(tag); element.textContent = value; if (className) element.className = className;
+        return element;
+      }
+      card.append(text('p',work.composer,'catalog-composer'),text('h3',work.title),
+        text('p',[work.durationLabel,work.part].filter(Boolean).join(' · '),'catalog-meta'),
+        text('p',work.summary,'catalog-summary'));
+      const action = create('div'); action.className = 'catalog-action';
+      const open = text('button',work.primary.current ? 'Continue practicing' : 'Open piece','primary');
+      open.type = 'button'; open.setAttribute('aria-label','Open '+work.title);
+      if (work.primary.current) open.setAttribute('aria-current','page');
+      open.addEventListener('click',() => onChoose(work.primary.href)); action.append(open);
+      if (work.current) action.append(text('span','Currently open','catalog-current'));
+      card.append(action);
+      if (work.movements.length) {
+        const search = String(query || '').trim().toLowerCase();
+        const matched = search ? work.movements.filter(movement =>
+          (movement.label+' '+movement.status).toLowerCase().includes(search)) : [];
+        const shown = matched.length ? matched : work.movements;
+        const details = create('details'); details.append(text('summary','Movements · '+
+          (shown.length === work.movements.length ? shown.length : shown.length+' of '+work.movements.length)));
+        details.open = matched.length > 0;
+        const list = create('div'); list.className = 'catalog-movements';
+        for (const movement of shown) {
+          const anchor = create('a'); anchor.className = 'catalog-movement'; anchor.href = movement.href;
+          anchor.append(text('span',movement.label),text('span',movement.status === 'bar-following' ? 'Bar following' : 'Movement jump',
+            'catalog-badge'+(movement.status === 'navigation-only' ? ' unfinished' : '')));
+          anchor.addEventListener('click',event => { event.preventDefault(); onChoose(movement.href); });
+          list.append(anchor);
+        }
+        details.append(list); card.append(details);
+      }
+      if (work.versions.length) {
+        const details = create('details'); details.append(text('summary','Other views'));
+        const list = create('div'); list.className = 'catalog-versions';
+        for (const version of work.versions) {
+          const anchor = text('a',version.label,'catalog-version'); anchor.href = version.href;
+          if (version.current) anchor.setAttribute('aria-current','page');
+          anchor.addEventListener('click',event => { event.preventDefault(); onChoose(version.href); }); list.append(anchor);
+        }
+        details.append(list); card.append(details);
+      }
+      return card;
+    });
+    if (!elements.length) {
+      const empty = create('p'); empty.className = 'catalog-empty'; empty.textContent = 'No music found. Try another piece, composer, or movement.';
+      empty.setAttribute('role','status'); elements.push(empty);
+    }
+    host.replaceChildren(...elements);
+  }
+
   function createTransport(audio, onChange, onError) {
     let desired = false;
     let request = 0;
@@ -249,7 +366,7 @@
     return url.pathname + url.search;
   }
 
-  const api = { safeUrl, createTransport, restoreEdits, localAsset, withoutStaleSpans, badgePosition, restLabel, timingEditNotice, regionAt, rhythmDisplay, barRegionLabel, fetchPairing, methodText, modeLinksFor, paintModeLinks, scoreClickTargets, paintScoreTargets, practiceSections };
+  const api = { safeUrl, createTransport, restoreEdits, localAsset, withoutStaleSpans, badgePosition, restLabel, timingEditNotice, regionAt, rhythmDisplay, barRegionLabel, fetchPairing, methodText, modeLinksFor, paintModeLinks, scoreClickTargets, paintScoreTargets, practiceSections, musicCatalog, catalogChoices, paintMusicCatalog };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   root.OrchestraPlayer = api;
   if (typeof document === 'undefined') return;
@@ -469,10 +586,7 @@
     validate(bundle.markers, bundle.duration);
     const movements = practiceSections(bundle);
     safeUrl(bundle.audioUrl, base); bundle.partPages.forEach(page => safeUrl(page.url, base));
-    const modes = modeLinksFor(bundle, base, location.href);
-    if (/\/research\/learn\/(pictures-at-an-exhibition|baba-yaga)/.test(new URL(base, location.href).pathname)) {
-      Object.assign(modes, modeLinksFor({modeLinks:{practice:{label:'All ready practice',bundle:new URL('research/learn/pictures-at-an-exhibition/practice-ready/pairing.json',location.href).href}}},base,location.href));
-    }
+    state.catalog = musicCatalog(bundle, base, location.href);
     state.original = JSON.parse(JSON.stringify(bundle)); state.bundle = bundle; state.base = base;
     state.key = 'cadenza.orchestra-pairing.' + JSON.stringify([bundle.id || bundle.title, bundle.audioUrl, bundle.partPages.map(page => page.url), bundle.markers.map(marker => [marker.id, marker.time])]);
     state.edits = Object.create(null);
@@ -489,7 +603,7 @@
     $('description').textContent = bundle.description || 'Your original Violin II pages, with the full orchestra recording.';
     $('method').textContent = methodText(bundle); $('method').hidden = !$('method').textContent;
     $('landmark-help').textContent = Array.isArray(bundle.barRegions) && bundle.barRegions.length ? 'Click any printed bar to jump there. Long rests share one box and seek to their first bar.' : 'Click the printed music to jump there. Unaligned sections have movement navigation only.';
-    paintModeLinks(document.querySelector('.mode-links'), modes, tag => document.createElement(tag));
+    refreshCatalog();
     $('movement-picker-label').hidden = !movements.length;
     $('movement-picker').replaceChildren();
     const placeholder = document.createElement('option'); placeholder.value = ''; placeholder.textContent = 'Choose a movement';
@@ -517,6 +631,24 @@
     if ($('movement-picker').value === '') return;
     seekTo(Number($('movement-picker').value), false);
   });
+  function chooseCatalog(href) {
+    const next = new URL(safeUrl(href, location.href)), current = new URL(state.base);
+    const target = next.searchParams.get('bundle');
+    if (target === current.href) {
+      $('music-catalog').close();
+      const at = next.searchParams.get('at');
+      if (at != null) seekTo(Number(at), false);
+      return;
+    }
+    transport.pause(); location.assign(next.href);
+  }
+  function refreshCatalog() {
+    paintMusicCatalog($('catalog-works'),state.catalog || [],$('catalog-search').value,
+      tag => document.createElement(tag),chooseCatalog);
+  }
+  $('open-catalog').addEventListener('click',() => { refreshCatalog(); $('music-catalog').showModal(); $('catalog-search').focus(); });
+  $('close-catalog').addEventListener('click',() => $('music-catalog').close());
+  $('catalog-search').addEventListener('input',refreshCatalog);
   $('follow').addEventListener('change', () => updatePosition(true));
   $('use-time').addEventListener('click', () => { $('edit-time').value = audio.currentTime.toFixed(2); });
   $('save-time').addEventListener('click', saveEdit);
@@ -555,7 +687,12 @@
     const token = ++state.loadToken;
     try {
       const pairing = await fetchPairing(fetch, path, location.href);
-      if (token === state.loadToken) loadBundle(pairing.raw, pairing.url);
+      if (token === state.loadToken) {
+        loadBundle(pairing.raw, pairing.url);
+        const at = new URL(location.href).searchParams.get('at');
+        if (at != null && at.trim() && Number.isFinite(Number(at)) && Number(at) >= 0 && Number(at) < state.bundle.duration)
+          seekTo(Number(at), false);
+      }
     } catch (error) { if (token === state.loadToken) setStatus(error.message + ' Use “Open another pairing” to choose a saved JSON file.', true); }
   })();
 })(typeof window !== 'undefined' ? window : globalThis);
