@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Orchestra Play Along · Cadenza</title>
+  <style>
+    :root{color-scheme:light;--ink:#26362f;--muted:#64756b;--green:#1f6749;--paper:#fffefa;--border:#d6ded5;--warm:#f4f2e8;--amber:#8c6226;font:16px/1.45 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    *{box-sizing:border-box}body{margin:0;background:#edf0e8;color:var(--ink)}button,input,select{font:inherit}button{cursor:pointer}button:disabled,input:disabled,select:disabled{cursor:default;opacity:.5}button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #b88c3c;outline-offset:3px}button{border:1px solid var(--border);border-radius:7px;background:var(--paper);padding:.48rem .75rem;color:var(--ink)}button:hover:enabled{background:#e4ecdf}.primary{background:var(--green);color:white;border-color:var(--green);min-width:6.6rem}.primary:hover:enabled{background:#194f3a}.quiet{font-size:.85rem}.brand{font-size:.75rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+    header{padding:1.1rem 1.4rem .9rem;max-width:1450px;margin:auto}h1{font-family:Georgia,serif;font-size:clamp(1.65rem,3vw,2.3rem);font-weight:500;margin:.18rem 0}header p{margin:.1rem 0;color:var(--muted);max-width:850px}.status{margin-top:.65rem;font-size:.9rem}.status.error{color:#9b342a}.status.loading{color:var(--amber)}
+    .transport{position:sticky;top:0;z-index:10;border-block:1px solid var(--border);background:rgba(255,254,250,.97);padding:.65rem 1.4rem;box-shadow:0 2px 8px #26362f08}.transport-inner{max-width:1422px;margin:auto;display:flex;align-items:center;gap:.7rem;flex-wrap:wrap}.timeline{display:flex;align-items:center;gap:.65rem;flex:1;min-width:220px}.timeline input{width:100%;accent-color:var(--green);min-width:80px}.clock{font:.86rem system-ui;white-space:nowrap;font-variant-numeric:tabular-nums}.control-label{display:flex;align-items:center;gap:.45rem;white-space:nowrap;font-size:.86rem}select{border:1px solid var(--border);background:white;border-radius:5px;padding:.32rem}.check{accent-color:var(--green)}.loop-active{background:#dce8d5;border-color:var(--green)}.current{max-width:1422px;margin:.55rem auto 0;display:flex;gap:.55rem;align-items:baseline;font-size:.9rem;flex-wrap:wrap}.current strong{font-weight:650}.review{font-size:.8rem;color:var(--amber)}
+    main{max-width:1450px;margin:auto;padding:1.1rem 1.4rem 3rem;display:grid;grid-template-columns:260px minmax(0,1fr);gap:1.2rem;align-items:start}.sidebar{position:sticky;top:125px;max-height:calc(100vh - 146px);overflow:auto;padding-right:.4rem}.sidebar h2{font-size:.92rem;letter-spacing:.04em;margin:0 0 .55rem}.instructions{font-size:.83rem;color:var(--muted);margin:0 0 .8rem}.landmarks{display:flex;flex-direction:column;gap:.38rem}.landmark{text-align:left;width:100%;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:.15rem .6rem;padding:.52rem .65rem}.landmark .marker-time{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}.landmark .marker-check{font-size:.71rem;color:var(--amber);grid-column:1/-1}.landmark.active{border-color:var(--green);box-shadow:inset 4px 0 var(--green);background:#edf4e7}.landmark.selected{outline:1px solid #91a288}.editor{background:var(--paper);border:1px solid var(--border);border-radius:8px;margin-top:1rem;padding:.75rem}.editor h3{margin:0 0 .65rem;font-size:.9rem}.editor label{display:block;font-size:.82rem;margin:.45rem 0}.editor input[type=number]{width:100%;padding:.35rem;border:1px solid var(--border);border-radius:4px}.editor .edit-actions{display:flex;gap:.4rem;flex-wrap:wrap}.editor p{font-size:.78rem;color:var(--muted);margin:.5rem 0}.editor .verification{display:flex;align-items:start;gap:.35rem}.editor .verification input{margin-top:.25rem}.editor details{border-top:1px solid var(--border);margin-top:.65rem;padding-top:.6rem;font-size:.8rem}.editor details p{overflow-wrap:anywhere}.bundle-tools{margin-top:.9rem;display:flex;gap:.45rem;flex-wrap:wrap}.file-label{cursor:pointer;display:inline-block;border:1px solid var(--border);border-radius:7px;background:var(--paper);padding:.42rem .6rem;font-size:.8rem}.file-label input{max-width:180px;display:block;font-size:.72rem;margin-top:.25rem}
+    .pages{display:flex;flex-direction:column;gap:1.2rem;min-width:0}.page{position:relative;margin:0;background:white;border:1px solid #cbd3c5;box-shadow:0 4px 18px #293d2c15;scroll-margin-top:135px}.page img{display:block;width:100%;height:auto}.page-label{position:absolute;right:12px;top:10px;background:#fffefae8;border-radius:3px;padding:.12rem .4rem;font-size:.72rem;color:var(--muted);pointer-events:none}.region{position:absolute;border:3px solid #528331;background:#a9bf5830;pointer-events:none;border-radius:5px;z-index:2;transition:top .15s,left .15s,height .15s,width .15s}.region.unchecked{border-color:#a27635;background:#e6b75125;border-style:dashed}.region-label{position:absolute;left:0;top:-1.5rem;background:var(--green);color:white;font-size:.72rem;padding:.12rem .4rem;white-space:nowrap;border-radius:3px}.region.unchecked .region-label{background:var(--amber)}.page-marker{position:absolute;min-width:1.65rem;height:1.65rem;padding:0 .24rem;font-size:.72rem;line-height:1.4;border-color:#7c9171;background:#f5f6edee;z-index:3;transform:translate(-50%,-80%)}.page-marker:hover:enabled{background:#dce8d5}.empty{min-height:55vh;border:1px dashed var(--border);border-radius:8px;display:grid;place-content:center;text-align:center;padding:2rem;background:var(--paper);color:var(--muted)}.hint{font-size:.78rem;color:var(--muted);margin:.6rem 0}.note{color:var(--muted)}[hidden]{display:none!important}
+    .rhythm{display:inline-flex;align-items:center;gap:.35rem;border-right:1px solid var(--border);padding-right:.6rem;color:var(--green);font-size:.84rem;font-variant-numeric:tabular-nums;white-space:nowrap}.bar-pulse{width:.62rem;height:.62rem;border-radius:50%;background:var(--green);flex:none}.subdivision{font-size:.7rem;color:var(--muted);margin-left:.1rem}
+    .mode-links{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.6rem}.mode-links a{color:var(--green);font-size:.78rem;border:1px solid var(--border);border-radius:5px;padding:.22rem .5rem;text-decoration:none;background:var(--paper)}.mode-links a[aria-current=page]{background:#e4ecdf;border-color:#91a288}.method{font-size:.83rem!important;margin-top:.5rem!important}
+    .score-hit-target{position:absolute;z-index:3;display:block;background:transparent;border:0;border-radius:0;padding:0;margin:0;min-width:0;min-height:0;cursor:pointer;color:transparent}.score-hit-target:hover:enabled{background:#1f67490c;outline:1px solid #1f674950;outline-offset:0}.score-hit-target:focus-visible{background:#1f674914;outline:3px solid #b88c3c;outline-offset:0}.region-label{display:none}
+    #movement-picker-label{flex-direction:column;align-items:stretch;margin-bottom:.85rem}#movement-picker{width:100%;max-width:100%}
+    @media(min-width:1200px){.pages{max-width:1000px;margin:0 auto;width:100%}}
+    @media(max-width:800px){header{padding:.85rem 1rem}.transport{padding:.55rem 1rem}.transport-inner{gap:.5rem}.timeline{order:5;flex-basis:100%}.current{font-size:.82rem}.control-label{font-size:.78rem}main{grid-template-columns:1fr;padding:.9rem 1rem 2rem;gap:.8rem}.sidebar{position:static;max-height:none;overflow:visible;padding:0}.landmarks{flex-direction:row;overflow-x:auto;padding-bottom:.3rem}.landmark{min-width:125px;max-width:170px;flex-shrink:0}.editor{max-width:600px}.page{scroll-margin-top:190px}.region{border-width:2px}.page-marker{min-width:1.4rem;height:1.4rem;font-size:.65rem}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Cadenza · Orchestra Play Along</div>
+    <h1 id="title">Your part, with the orchestra</h1>
+    <p id="description">Follow your original pages while the full recording plays. Click a landmark to find your place.</p>
+    <nav class="mode-links" aria-label="Timing method"><a href="?bundle=research%2Flearn%2Fpictures-at-an-exhibition%2Fpractice-ready%2Fpairing.json">Pictures · ready practice together</a><a href="?bundle=research%2Flearn%2Fpictures-at-an-exhibition%2Fpromenade-1-verification%2Fpairing.json">Promenade I · model bars</a><a href="?bundle=research%2Flearn%2Fpictures-at-an-exhibition%2Fgnomus-codex-review%2Fpairing.json">Gnomus · uncertain bar trial</a><a href="?bundle=research%2Flearn%2Fpictures-at-an-exhibition%2Fpromenade-2-verification%2Fpairing-v2.json">Promenade II · model bars</a><a href="?bundle=research%2Flearn%2Fpictures-at-an-exhibition%2Fplayer%2Fpairing.json">Pictures · navigation only</a><a href="?bundle=research%2Flearn%2Fbaba-yaga-blind%2Fplayer%2Fvideo-comparison.json">Liadov Baba Yaga · video-assisted</a></nav>
+    <p id="method" class="method" hidden></p>
+    <div id="status" class="status loading" role="status" aria-live="polite">Loading the saved pairing…</div>
+  </header>
+  <section class="transport" aria-label="Recording controls">
+    <div class="transport-inner">
+      <button id="play" class="primary" disabled>Play</button>
+      <button id="back" title="Back five seconds" aria-label="Back five seconds" disabled>−5s</button>
+      <button id="forward" title="Forward five seconds" aria-label="Forward five seconds" disabled>+5s</button>
+      <div class="timeline"><span class="clock" id="elapsed">0:00.0</span><input id="seek" type="range" min="0" max="1" value="0" step="0.01" aria-label="Recording time" disabled><span class="clock" id="duration">0:00.0</span></div>
+      <label class="control-label">Speed <select id="speed" disabled><option value="0.5">50%</option><option value="0.6">60%</option><option value="0.7">70%</option><option value="0.8">80%</option><option value="0.9">90%</option><option value="1" selected>100%</option></select></label>
+      <button id="loop" class="quiet" aria-pressed="false" disabled>Loop section</button>
+      <label class="control-label"><input id="follow" type="checkbox" class="check" checked>Follow pages</label>
+    </div>
+    <div class="current"><span id="rhythm" class="rhythm" title="Recording-based bar pulse; approximate." hidden><span id="bar-pulse" class="bar-pulse" aria-hidden="true"></span><span id="bar-label"></span><span id="eighth-label" class="subdivision"></span></span><strong id="current-label">No recording loaded</strong><span id="current-review" class="review"></span><span id="current-note" class="note"></span></div>
+  </section>
+  <main>
+    <aside class="sidebar" aria-label="Rehearsal landmarks">
+      <label class="control-label" id="movement-picker-label" hidden>Jump to movement <select id="movement-picker" aria-label="Jump to movement"></select></label>
+      <h2>Find your place</h2>
+      <p class="instructions" id="landmark-help">Landmarks follow sections, not individual notes. Dashed highlights still need a playing check.</p>
+      <div id="landmarks" class="landmarks"></div>
+      <section id="editor" class="editor" hidden>
+        <h3 id="edit-label">Adjust this landmark</h3>
+        <label for="edit-time">Start time in recording seconds</label>
+        <input id="edit-time" type="number" min="0" step="0.1">
+        <div class="edit-actions"><button id="use-time" class="quiet">Use current time</button><button id="save-time" class="quiet">Save adjustment</button></div>
+        <label class="verification"><input id="edit-checked" type="checkbox" class="check">I checked this landmark against the recording.</label>
+        <p id="edit-message" aria-live="polite">Edits stay in this browser. Export a copy to keep them.</p>
+        <details><summary>How this landmark was matched</summary><p id="edit-basis"></p></details>
+      </section>
+      <div class="bundle-tools"><button id="export" class="quiet" disabled>Export pairing</button><button id="reset" class="quiet" disabled>Reset my edits</button><label class="file-label">Open another pairing<input id="bundle-file" type="file" accept=".json,application/json"></label></div>
+      <p class="hint">Space plays or pauses. Left and right arrows move five seconds.</p>
+    </aside>
+    <section id="pages" class="pages" aria-label="Your original sheet music"><div class="empty">Your original pages will appear here.</div></section>
+  </main>
+  <audio id="audio" preload="metadata"></audio>
+  <script src="orchestra-timing.js"></script>
+  <script src="orchestra-playalong.js"></script>
+</body>
+</html>

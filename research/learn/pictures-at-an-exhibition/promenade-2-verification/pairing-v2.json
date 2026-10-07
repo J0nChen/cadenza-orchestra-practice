@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "id": "pictures-promenade2-ab391ad5bf4753ae-navigation-v2",
+  "title": "Pictures \u00b7 Promenade II \u00b7 approximate model bars",
+  "duration": 64.0,
+  "description": "Promenade II only. Your original part follows the orchestra at individual bars.",
+  "note": "Approximate full-score-assisted timing. Horn notes identify the opening; recorded pulses follow changing pace. Four later rhythm checks pass. The final held release is unknown.",
+  "matchingMode": "movement-cut-score-context-and-model-pulse-trial",
+  "intendedUse": "approximate-play-along",
+  "musicalAccuracyApproved": false,
+  "finalFermataEndAligned": false,
+  "audioUrl": "recording.wav",
+  "partPages": [
+    {
+      "url": "../pdf/page-02.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II \u00b7 original page2"
+    }
+  ],
+  "markers": [
+    {
+      "id": "bar-1",
+      "label": "Bar1 \u00b7 violin rest",
+      "time": 0.96,
+      "page": 1,
+      "rect": {
+        "x": 0.10072438771990341,
+        "y": 0.7609572465716591,
+        "w": 0.17523283890996896,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar2 \u00b7 violin rest",
+      "time": 5.92,
+      "page": 1,
+      "rect": {
+        "x": 0.2759572266298724,
+        "y": 0.7609572465716591,
+        "w": 0.11141773025181097,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar3 \u00b7 violin rest",
+      "time": 11.9,
+      "page": 1,
+      "rect": {
+        "x": 0.38737495688168333,
+        "y": 0.7609572465716591,
+        "w": 0.11176267678509831,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar4 \u00b7 violin rest",
+      "time": 16.38,
+      "page": 1,
+      "rect": {
+        "x": 0.49913763366678165,
+        "y": 0.7609572465716591,
+        "w": 0.11314246291824767,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar5 \u00b7 violin rest",
+      "time": 21.88,
+      "page": 1,
+      "rect": {
+        "x": 0.6122800965850294,
+        "y": 0.7609572465716591,
+        "w": 0.1414280786478096,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar6 \u00b7 violin rest",
+      "time": 26.68,
+      "page": 1,
+      "rect": {
+        "x": 0.753708175232839,
+        "y": 0.7609572465716591,
+        "w": 0.13694377371507416,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar7 \u00b7 violin rest",
+      "time": 32.9,
+      "page": 1,
+      "rect": {
+        "x": 0.1014142807864781,
+        "y": 0.8335574079053509,
+        "w": 0.14936184891341842,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar8 \u00b7 violin rest",
+      "time": 37.46,
+      "page": 1,
+      "rect": {
+        "x": 0.2507761296998965,
+        "y": 0.8335574079053509,
+        "w": 0.11693687478440842,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar9 \u00b7 violin rest",
+      "time": 43.02,
+      "page": 1,
+      "rect": {
+        "x": 0.36771300448430494,
+        "y": 0.8335574079053509,
+        "w": 0.11521214211797172,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar10 \u00b7 violin rest",
+      "time": 47.62,
+      "page": 1,
+      "rect": {
+        "x": 0.48292514660227664,
+        "y": 0.8335574079053509,
+        "w": 0.1210762331838565,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar11",
+      "time": 53.22,
+      "page": 1,
+      "rect": {
+        "x": 0.6040013797861331,
+        "y": 0.8335574079053509,
+        "w": 0.1193515005174198,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar12 \u00b7 final hold",
+      "time": 58.08,
+      "page": 1,
+      "rect": {
+        "x": 0.7233528803035529,
+        "y": 0.8335574079053509,
+        "w": 0.18972059330803726,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Final release is unknown; no beat pulse is shown through the hold.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting."
+    }
+  ],
+  "spans": [
+    {
+      "id": "bar-1",
+      "label": "Bar1 \u00b7 violin rest",
+      "time": 0.96,
+      "page": 1,
+      "rect": {
+        "x": 0.10072438771990341,
+        "y": 0.7609572465716591,
+        "w": 0.17523283890996896,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 0.96,
+      "end": 5.92
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar2 \u00b7 violin rest",
+      "time": 5.92,
+      "page": 1,
+      "rect": {
+        "x": 0.2759572266298724,
+        "y": 0.7609572465716591,
+        "w": 0.11141773025181097,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 5.92,
+      "end": 11.9
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar3 \u00b7 violin rest",
+      "time": 11.9,
+      "page": 1,
+      "rect": {
+        "x": 0.38737495688168333,
+        "y": 0.7609572465716591,
+        "w": 0.11176267678509831,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 11.9,
+      "end": 16.38
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar4 \u00b7 violin rest",
+      "time": 16.38,
+      "page": 1,
+      "rect": {
+        "x": 0.49913763366678165,
+        "y": 0.7609572465716591,
+        "w": 0.11314246291824767,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 16.38,
+      "end": 21.88
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar5 \u00b7 violin rest",
+      "time": 21.88,
+      "page": 1,
+      "rect": {
+        "x": 0.6122800965850294,
+        "y": 0.7609572465716591,
+        "w": 0.1414280786478096,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 21.88,
+      "end": 26.68
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar6 \u00b7 violin rest",
+      "time": 26.68,
+      "page": 1,
+      "rect": {
+        "x": 0.753708175232839,
+        "y": 0.7609572465716591,
+        "w": 0.13694377371507416,
+        "h": 0.06318902930895402
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 26.68,
+      "end": 32.9
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar7 \u00b7 violin rest",
+      "time": 32.9,
+      "page": 1,
+      "rect": {
+        "x": 0.1014142807864781,
+        "y": 0.8335574079053509,
+        "w": 0.14936184891341842,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 32.9,
+      "end": 37.46
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar8 \u00b7 violin rest",
+      "time": 37.46,
+      "page": 1,
+      "rect": {
+        "x": 0.2507761296998965,
+        "y": 0.8335574079053509,
+        "w": 0.11693687478440842,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 37.46,
+      "end": 43.02
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar9 \u00b7 violin rest",
+      "time": 43.02,
+      "page": 1,
+      "rect": {
+        "x": 0.36771300448430494,
+        "y": 0.8335574079053509,
+        "w": 0.11521214211797172,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 43.02,
+      "end": 47.62
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar10 \u00b7 violin rest",
+      "time": 47.62,
+      "page": 1,
+      "rect": {
+        "x": 0.48292514660227664,
+        "y": 0.8335574079053509,
+        "w": 0.1210762331838565,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 47.62,
+      "end": 53.22
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar11",
+      "time": 53.22,
+      "page": 1,
+      "rect": {
+        "x": 0.6040013797861331,
+        "y": 0.8335574079053509,
+        "w": 0.1193515005174198,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Orchestral context identifies the opening; recorded pulses supply bar timing.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 53.22,
+      "end": 58.08
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar12 \u00b7 final hold",
+      "time": 58.08,
+      "page": 1,
+      "rect": {
+        "x": 0.7233528803035529,
+        "y": 0.8335574079053509,
+        "w": 0.18972059330803726,
+        "h": 0.06453347674105943
+      },
+      "checked": false,
+      "note": "Approximate model bar. Final release is unknown; no beat pulse is shown through the hold.",
+      "basis": "Score-assisted opening phase and cached recording pulses; no video or endpoint fitting.",
+      "start": 58.08,
+      "end": 64.0
+    }
+  ],
+  "rests": [],
+  "barRegions": [
+    {
+      "id": "bar-box-1",
+      "barStart": 1,
+      "barEndExclusive": 2,
+      "page": 1,
+      "rect": {
+        "x": 0.10072438771990341,
+        "y": 0.7609572465716591,
+        "w": 0.17523283890996896,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar1 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-2",
+      "barStart": 2,
+      "barEndExclusive": 3,
+      "page": 1,
+      "rect": {
+        "x": 0.2759572266298724,
+        "y": 0.7609572465716591,
+        "w": 0.11141773025181097,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar2 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-3",
+      "barStart": 3,
+      "barEndExclusive": 4,
+      "page": 1,
+      "rect": {
+        "x": 0.38737495688168333,
+        "y": 0.7609572465716591,
+        "w": 0.11176267678509831,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar3 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-4",
+      "barStart": 4,
+      "barEndExclusive": 5,
+      "page": 1,
+      "rect": {
+        "x": 0.49913763366678165,
+        "y": 0.7609572465716591,
+        "w": 0.11314246291824767,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar4 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-5",
+      "barStart": 5,
+      "barEndExclusive": 6,
+      "page": 1,
+      "rect": {
+        "x": 0.6122800965850294,
+        "y": 0.7609572465716591,
+        "w": 0.1414280786478096,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar5 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-6",
+      "barStart": 6,
+      "barEndExclusive": 7,
+      "page": 1,
+      "rect": {
+        "x": 0.753708175232839,
+        "y": 0.7609572465716591,
+        "w": 0.13694377371507416,
+        "h": 0.06318902930895402
+      },
+      "label": "Bar6 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-7",
+      "barStart": 7,
+      "barEndExclusive": 8,
+      "page": 1,
+      "rect": {
+        "x": 0.1014142807864781,
+        "y": 0.8335574079053509,
+        "w": 0.14936184891341842,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar7 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-8",
+      "barStart": 8,
+      "barEndExclusive": 9,
+      "page": 1,
+      "rect": {
+        "x": 0.2507761296998965,
+        "y": 0.8335574079053509,
+        "w": 0.11693687478440842,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar8 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-9",
+      "barStart": 9,
+      "barEndExclusive": 10,
+      "page": 1,
+      "rect": {
+        "x": 0.36771300448430494,
+        "y": 0.8335574079053509,
+        "w": 0.11521214211797172,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar9 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-10",
+      "barStart": 10,
+      "barEndExclusive": 11,
+      "page": 1,
+      "rect": {
+        "x": 0.48292514660227664,
+        "y": 0.8335574079053509,
+        "w": 0.1210762331838565,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar10 \u00b7 violin rest",
+      "checked": false
+    },
+    {
+      "id": "bar-box-11",
+      "barStart": 11,
+      "barEndExclusive": 12,
+      "page": 1,
+      "rect": {
+        "x": 0.6040013797861331,
+        "y": 0.8335574079053509,
+        "w": 0.1193515005174198,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar11",
+      "checked": false
+    },
+    {
+      "id": "bar-box-12",
+      "barStart": 12,
+      "barEndExclusive": 13,
+      "page": 1,
+      "rect": {
+        "x": 0.7233528803035529,
+        "y": 0.8335574079053509,
+        "w": 0.18972059330803726,
+        "h": 0.06453347674105943
+      },
+      "label": "Bar12 \u00b7 final hold",
+      "checked": false
+    }
+  ],
+  "rhythm": {
+    "accuracy": "Approximate; final hold has no pulse clock",
+    "bars": [
+      {
+        "bar": 1,
+        "time": 0.96,
+        "end": 5.92,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          0.96,
+          1.49,
+          2.02,
+          2.5,
+          2.98,
+          3.45,
+          3.92,
+          4.4,
+          4.88,
+          5.4
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 2,
+        "time": 5.92,
+        "end": 11.9,
+        "eighths": 12,
+        "meter": "6/4",
+        "beats": [
+          5.92,
+          6.390000000000001,
+          6.86,
+          7.35,
+          7.84,
+          8.33,
+          8.82,
+          9.31,
+          9.8,
+          10.31,
+          10.82,
+          11.36
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 3,
+        "time": 11.9,
+        "end": 16.38,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          11.9,
+          12.36,
+          12.82,
+          13.27,
+          13.72,
+          14.16,
+          14.6,
+          15.05,
+          15.5,
+          15.94
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 4,
+        "time": 16.38,
+        "end": 21.88,
+        "eighths": 12,
+        "meter": "6/4",
+        "beats": [
+          16.38,
+          16.83,
+          17.28,
+          17.72,
+          18.16,
+          18.6,
+          19.04,
+          19.490000000000002,
+          19.94,
+          20.41,
+          20.88,
+          21.38
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 5,
+        "time": 21.88,
+        "end": 26.68,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          21.88,
+          22.41,
+          22.94,
+          23.4,
+          23.86,
+          24.310000000000002,
+          24.76,
+          25.26,
+          25.76,
+          26.22
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 6,
+        "time": 26.68,
+        "end": 32.9,
+        "eighths": 12,
+        "meter": "6/4",
+        "beats": [
+          26.68,
+          27.16,
+          27.64,
+          28.14,
+          28.64,
+          29.17,
+          29.7,
+          30.25,
+          30.8,
+          31.310000000000002,
+          31.82,
+          32.36
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 7,
+        "time": 32.9,
+        "end": 37.46,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          32.9,
+          33.36,
+          33.82,
+          34.28,
+          34.74,
+          35.2,
+          35.66,
+          36.11,
+          36.56,
+          37.010000000000005
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 8,
+        "time": 37.46,
+        "end": 43.02,
+        "eighths": 12,
+        "meter": "6/4",
+        "beats": [
+          37.46,
+          37.900000000000006,
+          38.34,
+          38.790000000000006,
+          39.24,
+          39.68,
+          40.12,
+          40.58,
+          41.04,
+          41.51,
+          41.98,
+          42.5
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 9,
+        "time": 43.02,
+        "end": 47.62,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          43.02,
+          43.480000000000004,
+          43.94,
+          44.39,
+          44.84,
+          45.3,
+          45.76,
+          46.230000000000004,
+          46.7,
+          47.16
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 10,
+        "time": 47.62,
+        "end": 53.22,
+        "eighths": 12,
+        "meter": "6/4",
+        "beats": [
+          47.62,
+          48.07,
+          48.52,
+          48.96,
+          49.4,
+          49.84,
+          50.28,
+          50.730000000000004,
+          51.18,
+          51.66,
+          52.14,
+          52.68
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      },
+      {
+        "bar": 11,
+        "time": 53.22,
+        "end": 58.08,
+        "eighths": 10,
+        "meter": "5/4",
+        "beats": [
+          53.22,
+          53.72,
+          54.22,
+          54.69,
+          55.16,
+          55.66,
+          56.16,
+          56.629999999999995,
+          57.1,
+          57.59
+        ],
+        "timingChecked": false,
+        "basis": "Observed pulse interpolation, not one fixed metronome"
+      }
+    ]
+  },
+  "modeLinks": {
+    "practice": {
+      "label": "Pictures \u00b7 ready practice together",
+      "bundle": "../practice-ready/pairing.json"
+    },
+    "trial": {
+      "label": "Promenade I \u00b7 model bars",
+      "bundle": "../promenade-1-verification/pairing.json"
+    },
+    "gnomus": {
+      "label": "Gnomus \u00b7 uncertain bar trial",
+      "bundle": "../gnomus-codex-review/pairing.json"
+    },
+    "promenade2": {
+      "label": "Promenade II \u00b7 model bars",
+      "bundle": "pairing-v2.json"
+    },
+    "navigation": {
+      "label": "Pictures \u00b7 navigation only",
+      "bundle": "../player/pairing.json"
+    },
+    "baba": {
+      "label": "Liadov Baba Yaga \u00b7 video-assisted",
+      "bundle": "../../baba-yaga-blind/player/video-comparison.json"
+    }
+  }
+}

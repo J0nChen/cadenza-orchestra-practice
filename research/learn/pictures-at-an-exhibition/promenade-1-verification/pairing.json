@@ -1,0 +1,1681 @@
+{
+  "schemaVersion": 1,
+  "id": "pictures-promenade-approximate-59530fd59443a33f",
+  "title": "Pictures \u00b7 First Promenade \u00b7 approximate model bars",
+  "duration": 108.0,
+  "description": "Only the first Promenade. Written meters follow the local model\u2019s recording pulses.",
+  "note": "Approximate bars follow the recording\u2019s pulses. Opening and late rhythm checks support continuity; repeated middle rhythms and the final hold remain estimates. Timestamps only set the cut.",
+  "matchingMode": "movement-cut-model-bar-trial-unaccepted",
+  "intendedUse": "approximate-play-along",
+  "musicalAccuracyApproved": false,
+  "audioUrl": "recording.wav",
+  "partPages": [
+    {
+      "url": "../pdf/page-01.png",
+      "width": 1065,
+      "height": 1366,
+      "label": "Violin II"
+    }
+  ],
+  "markers": [
+    {
+      "id": "bar-1",
+      "label": "Bar 1",
+      "time": 1.4675,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.1912404365142598,
+        "w": 0.16081267217630854,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar 2",
+      "time": 5.4175,
+      "page": 1,
+      "rect": {
+        "x": 0.2534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.1256887052341598,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar 3",
+      "time": 10.12,
+      "page": 1,
+      "rect": {
+        "x": 0.37913223140495866,
+        "y": 0.1912404365142598,
+        "w": 0.12534435261707988,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar 4",
+      "time": 14.057500000000001,
+      "page": 1,
+      "rect": {
+        "x": 0.5044765840220385,
+        "y": 0.1912404365142598,
+        "w": 0.1246556473829201,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar 5",
+      "time": 18.78,
+      "page": 1,
+      "rect": {
+        "x": 0.6291322314049587,
+        "y": 0.1912404365142598,
+        "w": 0.12431129476584023,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar 6",
+      "time": 22.5925,
+      "page": 1,
+      "rect": {
+        "x": 0.7534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.12155647382920111,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar 7",
+      "time": 27.2775,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.26286821876151106,
+        "w": 0.13705234159779614,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar 8",
+      "time": 31.134999999999998,
+      "page": 1,
+      "rect": {
+        "x": 0.2296831955922865,
+        "y": 0.26286821876151106,
+        "w": 0.12534435261707988,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar 9",
+      "time": 35.84,
+      "page": 1,
+      "rect": {
+        "x": 0.3550275482093664,
+        "y": 0.26286821876151106,
+        "w": 0.17389807162534435,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar 10",
+      "time": 40.3125,
+      "page": 1,
+      "rect": {
+        "x": 0.5289256198347108,
+        "y": 0.26286821876151106,
+        "w": 0.1986914600550964,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar 11",
+      "time": 44.71,
+      "page": 1,
+      "rect": {
+        "x": 0.7276170798898072,
+        "y": 0.26286821876151106,
+        "w": 0.14772727272727273,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar 12",
+      "time": 48.31,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-13",
+      "label": "Bar 13",
+      "time": 52.612500000000004,
+      "page": 1,
+      "rect": {
+        "x": 0.34366391184573003,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-14",
+      "label": "Bar 14",
+      "time": 57.035,
+      "page": 1,
+      "rect": {
+        "x": 0.5946969696969697,
+        "y": 0.33401329787119194,
+        "w": 0.13636363636363635,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-15",
+      "label": "Bar 15",
+      "time": 61.5775,
+      "page": 1,
+      "rect": {
+        "x": 0.7310606060606061,
+        "y": 0.33401329787119194,
+        "w": 0.1484159779614325,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-16",
+      "label": "Bar 16",
+      "time": 66.30250000000001,
+      "page": 1,
+      "rect": {
+        "x": 0.10950413223140495,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-17",
+      "label": "Bar 17",
+      "time": 71.1675,
+      "page": 1,
+      "rect": {
+        "x": 0.30888429752066116,
+        "y": 0.405399728549658,
+        "w": 0.174931129476584,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-18",
+      "label": "Bar 18",
+      "time": 75.855,
+      "page": 1,
+      "rect": {
+        "x": 0.48381542699724517,
+        "y": 0.405399728549658,
+        "w": 0.2255509641873278,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-19",
+      "label": "Bar 19",
+      "time": 80.3325,
+      "page": 1,
+      "rect": {
+        "x": 0.709366391184573,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-20",
+      "label": "Bar 20",
+      "time": 84.795,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.4768397929100764,
+        "w": 0.22520661157024793,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-21",
+      "label": "Bar 21",
+      "time": 89.41499999999999,
+      "page": 1,
+      "rect": {
+        "x": 0.3178374655647383,
+        "y": 0.4768397929100764,
+        "w": 0.18732782369146006,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-22",
+      "label": "Bar 22",
+      "time": 94.0975,
+      "page": 1,
+      "rect": {
+        "x": 0.5051652892561983,
+        "y": 0.4768397929100764,
+        "w": 0.0881542699724518,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-23",
+      "label": "Bar 23",
+      "time": 98.715,
+      "page": 1,
+      "rect": {
+        "x": 0.5933195592286501,
+        "y": 0.4768397929100764,
+        "w": 0.1494490358126722,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    },
+    {
+      "id": "bar-24",
+      "label": "Bar 24 \u00b7 fermata",
+      "time": 103.315,
+      "page": 1,
+      "rect": {
+        "x": 0.7427685950413223,
+        "y": 0.4768397929100764,
+        "w": 0.1652892561983471,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Final fermata: start is estimated; its release is not aligned. The movement cut may truncate the hold.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only."
+    }
+  ],
+  "spans": [
+    {
+      "id": "bar-1",
+      "label": "Bar 1",
+      "time": 1.4675,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.1912404365142598,
+        "w": 0.16081267217630854,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 1.4675,
+      "end": 5.4175
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar 2",
+      "time": 5.4175,
+      "page": 1,
+      "rect": {
+        "x": 0.2534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.1256887052341598,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 5.4175,
+      "end": 10.12
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar 3",
+      "time": 10.12,
+      "page": 1,
+      "rect": {
+        "x": 0.37913223140495866,
+        "y": 0.1912404365142598,
+        "w": 0.12534435261707988,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 10.12,
+      "end": 14.057500000000001
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar 4",
+      "time": 14.057500000000001,
+      "page": 1,
+      "rect": {
+        "x": 0.5044765840220385,
+        "y": 0.1912404365142598,
+        "w": 0.1246556473829201,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 14.057500000000001,
+      "end": 18.78
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar 5",
+      "time": 18.78,
+      "page": 1,
+      "rect": {
+        "x": 0.6291322314049587,
+        "y": 0.1912404365142598,
+        "w": 0.12431129476584023,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 18.78,
+      "end": 22.5925
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar 6",
+      "time": 22.5925,
+      "page": 1,
+      "rect": {
+        "x": 0.7534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.12155647382920111,
+        "h": 0.06715709961830266
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 22.5925,
+      "end": 27.2775
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar 7",
+      "time": 27.2775,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.26286821876151106,
+        "w": 0.13705234159779614,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 27.2775,
+      "end": 31.134999999999998
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar 8",
+      "time": 31.134999999999998,
+      "page": 1,
+      "rect": {
+        "x": 0.2296831955922865,
+        "y": 0.26286821876151106,
+        "w": 0.12534435261707988,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 31.134999999999998,
+      "end": 35.84
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar 9",
+      "time": 35.84,
+      "page": 1,
+      "rect": {
+        "x": 0.3550275482093664,
+        "y": 0.26286821876151106,
+        "w": 0.17389807162534435,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 35.84,
+      "end": 40.3125
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar 10",
+      "time": 40.3125,
+      "page": 1,
+      "rect": {
+        "x": 0.5289256198347108,
+        "y": 0.26286821876151106,
+        "w": 0.1986914600550964,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 40.3125,
+      "end": 44.71
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar 11",
+      "time": 44.71,
+      "page": 1,
+      "rect": {
+        "x": 0.7276170798898072,
+        "y": 0.26286821876151106,
+        "w": 0.14772727272727273,
+        "h": 0.06718391645927879
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 44.71,
+      "end": 48.31
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar 12",
+      "time": 48.31,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 48.31,
+      "end": 52.612500000000004
+    },
+    {
+      "id": "bar-13",
+      "label": "Bar 13",
+      "time": 52.612500000000004,
+      "page": 1,
+      "rect": {
+        "x": 0.34366391184573003,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 52.612500000000004,
+      "end": 57.035
+    },
+    {
+      "id": "bar-14",
+      "label": "Bar 14",
+      "time": 57.035,
+      "page": 1,
+      "rect": {
+        "x": 0.5946969696969697,
+        "y": 0.33401329787119194,
+        "w": 0.13636363636363635,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 57.035,
+      "end": 61.5775
+    },
+    {
+      "id": "bar-15",
+      "label": "Bar 15",
+      "time": 61.5775,
+      "page": 1,
+      "rect": {
+        "x": 0.7310606060606061,
+        "y": 0.33401329787119194,
+        "w": 0.1484159779614325,
+        "h": 0.06758616907392073
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 61.5775,
+      "end": 66.30250000000001
+    },
+    {
+      "id": "bar-16",
+      "label": "Bar 16",
+      "time": 66.30250000000001,
+      "page": 1,
+      "rect": {
+        "x": 0.10950413223140495,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 66.30250000000001,
+      "end": 71.1675
+    },
+    {
+      "id": "bar-17",
+      "label": "Bar 17",
+      "time": 71.1675,
+      "page": 1,
+      "rect": {
+        "x": 0.30888429752066116,
+        "y": 0.405399728549658,
+        "w": 0.174931129476584,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 71.1675,
+      "end": 75.855
+    },
+    {
+      "id": "bar-18",
+      "label": "Bar 18",
+      "time": 75.855,
+      "page": 1,
+      "rect": {
+        "x": 0.48381542699724517,
+        "y": 0.405399728549658,
+        "w": 0.2255509641873278,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 75.855,
+      "end": 80.3325
+    },
+    {
+      "id": "bar-19",
+      "label": "Bar 19",
+      "time": 80.3325,
+      "page": 1,
+      "rect": {
+        "x": 0.709366391184573,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 80.3325,
+      "end": 84.795
+    },
+    {
+      "id": "bar-20",
+      "label": "Bar 20",
+      "time": 84.795,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.4768397929100764,
+        "w": 0.22520661157024793,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 84.795,
+      "end": 89.41499999999999
+    },
+    {
+      "id": "bar-21",
+      "label": "Bar 21",
+      "time": 89.41499999999999,
+      "page": 1,
+      "rect": {
+        "x": 0.3178374655647383,
+        "y": 0.4768397929100764,
+        "w": 0.18732782369146006,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 89.41499999999999,
+      "end": 94.0975
+    },
+    {
+      "id": "bar-22",
+      "label": "Bar 22",
+      "time": 94.0975,
+      "page": 1,
+      "rect": {
+        "x": 0.5051652892561983,
+        "y": 0.4768397929100764,
+        "w": 0.0881542699724518,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 94.0975,
+      "end": 98.715
+    },
+    {
+      "id": "bar-23",
+      "label": "Bar 23",
+      "time": 98.715,
+      "page": 1,
+      "rect": {
+        "x": 0.5933195592286501,
+        "y": 0.4768397929100764,
+        "w": 0.1494490358126722,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Model-derived bar proposal; not independently approved.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 98.715,
+      "end": 103.315
+    },
+    {
+      "id": "bar-24",
+      "label": "Bar 24 \u00b7 fermata",
+      "time": 103.315,
+      "page": 1,
+      "rect": {
+        "x": 0.7427685950413223,
+        "y": 0.4768397929100764,
+        "w": 0.1652892561983471,
+        "h": 0.1401257239143605
+      },
+      "checked": false,
+      "note": "Final fermata: start is estimated; its release is not aligned. The movement cut may truncate the hold.",
+      "basis": "Written meter counted along observed recording pulses; chapter times supply the crop only.",
+      "start": 103.315,
+      "end": 108.0
+    }
+  ],
+  "rests": [],
+  "barRegions": [
+    {
+      "id": "bar-box-1",
+      "barStart": 1,
+      "barEndExclusive": 2,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.1912404365142598,
+        "w": 0.16081267217630854,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 1",
+      "checked": false
+    },
+    {
+      "id": "bar-box-2",
+      "barStart": 2,
+      "barEndExclusive": 3,
+      "page": 1,
+      "rect": {
+        "x": 0.2534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.1256887052341598,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 2",
+      "checked": false
+    },
+    {
+      "id": "bar-box-3",
+      "barStart": 3,
+      "barEndExclusive": 4,
+      "page": 1,
+      "rect": {
+        "x": 0.37913223140495866,
+        "y": 0.1912404365142598,
+        "w": 0.12534435261707988,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 3",
+      "checked": false
+    },
+    {
+      "id": "bar-box-4",
+      "barStart": 4,
+      "barEndExclusive": 5,
+      "page": 1,
+      "rect": {
+        "x": 0.5044765840220385,
+        "y": 0.1912404365142598,
+        "w": 0.1246556473829201,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 4",
+      "checked": false
+    },
+    {
+      "id": "bar-box-5",
+      "barStart": 5,
+      "barEndExclusive": 6,
+      "page": 1,
+      "rect": {
+        "x": 0.6291322314049587,
+        "y": 0.1912404365142598,
+        "w": 0.12431129476584023,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 5",
+      "checked": false
+    },
+    {
+      "id": "bar-box-6",
+      "barStart": 6,
+      "barEndExclusive": 7,
+      "page": 1,
+      "rect": {
+        "x": 0.7534435261707989,
+        "y": 0.1912404365142598,
+        "w": 0.12155647382920111,
+        "h": 0.06715709961830266
+      },
+      "label": "Bar 6",
+      "checked": false
+    },
+    {
+      "id": "bar-box-7",
+      "barStart": 7,
+      "barEndExclusive": 8,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.26286821876151106,
+        "w": 0.13705234159779614,
+        "h": 0.06718391645927879
+      },
+      "label": "Bar 7",
+      "checked": false
+    },
+    {
+      "id": "bar-box-8",
+      "barStart": 8,
+      "barEndExclusive": 9,
+      "page": 1,
+      "rect": {
+        "x": 0.2296831955922865,
+        "y": 0.26286821876151106,
+        "w": 0.12534435261707988,
+        "h": 0.06718391645927879
+      },
+      "label": "Bar 8",
+      "checked": false
+    },
+    {
+      "id": "bar-box-9",
+      "barStart": 9,
+      "barEndExclusive": 10,
+      "page": 1,
+      "rect": {
+        "x": 0.3550275482093664,
+        "y": 0.26286821876151106,
+        "w": 0.17389807162534435,
+        "h": 0.06718391645927879
+      },
+      "label": "Bar 9",
+      "checked": false
+    },
+    {
+      "id": "bar-box-10",
+      "barStart": 10,
+      "barEndExclusive": 11,
+      "page": 1,
+      "rect": {
+        "x": 0.5289256198347108,
+        "y": 0.26286821876151106,
+        "w": 0.1986914600550964,
+        "h": 0.06718391645927879
+      },
+      "label": "Bar 10",
+      "checked": false
+    },
+    {
+      "id": "bar-box-11",
+      "barStart": 11,
+      "barEndExclusive": 12,
+      "page": 1,
+      "rect": {
+        "x": 0.7276170798898072,
+        "y": 0.26286821876151106,
+        "w": 0.14772727272727273,
+        "h": 0.06718391645927879
+      },
+      "label": "Bar 11",
+      "checked": false
+    },
+    {
+      "id": "bar-box-12",
+      "barStart": 12,
+      "barEndExclusive": 13,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "label": "Bar 12",
+      "checked": false
+    },
+    {
+      "id": "bar-box-13",
+      "barStart": 13,
+      "barEndExclusive": 14,
+      "page": 1,
+      "rect": {
+        "x": 0.34366391184573003,
+        "y": 0.33401329787119194,
+        "w": 0.2510330578512397,
+        "h": 0.06758616907392073
+      },
+      "label": "Bar 13",
+      "checked": false
+    },
+    {
+      "id": "bar-box-14",
+      "barStart": 14,
+      "barEndExclusive": 15,
+      "page": 1,
+      "rect": {
+        "x": 0.5946969696969697,
+        "y": 0.33401329787119194,
+        "w": 0.13636363636363635,
+        "h": 0.06758616907392073
+      },
+      "label": "Bar 14",
+      "checked": false
+    },
+    {
+      "id": "bar-box-15",
+      "barStart": 15,
+      "barEndExclusive": 16,
+      "page": 1,
+      "rect": {
+        "x": 0.7310606060606061,
+        "y": 0.33401329787119194,
+        "w": 0.1484159779614325,
+        "h": 0.06758616907392073
+      },
+      "label": "Bar 15",
+      "checked": false
+    },
+    {
+      "id": "bar-box-16",
+      "barStart": 16,
+      "barEndExclusive": 17,
+      "page": 1,
+      "rect": {
+        "x": 0.10950413223140495,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "label": "Bar 16",
+      "checked": false
+    },
+    {
+      "id": "bar-box-17",
+      "barStart": 17,
+      "barEndExclusive": 18,
+      "page": 1,
+      "rect": {
+        "x": 0.30888429752066116,
+        "y": 0.405399728549658,
+        "w": 0.174931129476584,
+        "h": 0.06750571855099241
+      },
+      "label": "Bar 17",
+      "checked": false
+    },
+    {
+      "id": "bar-box-18",
+      "barStart": 18,
+      "barEndExclusive": 19,
+      "page": 1,
+      "rect": {
+        "x": 0.48381542699724517,
+        "y": 0.405399728549658,
+        "w": 0.2255509641873278,
+        "h": 0.06750571855099241
+      },
+      "label": "Bar 18",
+      "checked": false
+    },
+    {
+      "id": "bar-box-19",
+      "barStart": 19,
+      "barEndExclusive": 20,
+      "page": 1,
+      "rect": {
+        "x": 0.709366391184573,
+        "y": 0.405399728549658,
+        "w": 0.1993801652892562,
+        "h": 0.06750571855099241
+      },
+      "label": "Bar 19",
+      "checked": false
+    },
+    {
+      "id": "bar-box-20",
+      "barStart": 20,
+      "barEndExclusive": 21,
+      "page": 1,
+      "rect": {
+        "x": 0.09263085399449036,
+        "y": 0.4768397929100764,
+        "w": 0.22520661157024793,
+        "h": 0.1401257239143605
+      },
+      "label": "Bar 20",
+      "checked": false
+    },
+    {
+      "id": "bar-box-21",
+      "barStart": 21,
+      "barEndExclusive": 22,
+      "page": 1,
+      "rect": {
+        "x": 0.3178374655647383,
+        "y": 0.4768397929100764,
+        "w": 0.18732782369146006,
+        "h": 0.1401257239143605
+      },
+      "label": "Bar 21",
+      "checked": false
+    },
+    {
+      "id": "bar-box-22",
+      "barStart": 22,
+      "barEndExclusive": 23,
+      "page": 1,
+      "rect": {
+        "x": 0.5051652892561983,
+        "y": 0.4768397929100764,
+        "w": 0.0881542699724518,
+        "h": 0.1401257239143605
+      },
+      "label": "Bar 22",
+      "checked": false
+    },
+    {
+      "id": "bar-box-23",
+      "barStart": 23,
+      "barEndExclusive": 24,
+      "page": 1,
+      "rect": {
+        "x": 0.5933195592286501,
+        "y": 0.4768397929100764,
+        "w": 0.1494490358126722,
+        "h": 0.1401257239143605
+      },
+      "label": "Bar 23",
+      "checked": false
+    },
+    {
+      "id": "bar-box-24",
+      "barStart": 24,
+      "barEndExclusive": 25,
+      "page": 1,
+      "rect": {
+        "x": 0.7427685950413223,
+        "y": 0.4768397929100764,
+        "w": 0.1652892561983471,
+        "h": 0.1401257239143605
+      },
+      "label": "Bar 24 \u00b7 fermata",
+      "checked": false
+    }
+  ],
+  "rhythm": {
+    "accuracy": "unapproved; final fermata has no end time",
+    "bars": [
+      {
+        "bar": 1,
+        "time": 1.4675,
+        "end": 5.4175,
+        "meter": "5/4",
+        "eighths": 10,
+        "beats": [
+          1.4675,
+          1.8625,
+          2.2575000000000003,
+          2.6525,
+          3.0475000000000003,
+          3.4425,
+          3.8375000000000004,
+          4.2325,
+          4.6275,
+          5.022500000000001
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 2,
+        "time": 5.4175,
+        "end": 10.12,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          5.4175,
+          5.809375,
+          6.20125,
+          6.593125000000001,
+          6.985,
+          7.376875,
+          7.76875,
+          8.160625,
+          8.5525,
+          8.944374999999999,
+          9.33625,
+          9.728124999999999
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 3,
+        "time": 10.12,
+        "end": 14.057500000000001,
+        "meter": "5/4",
+        "eighths": 10,
+        "beats": [
+          10.12,
+          10.51375,
+          10.907499999999999,
+          11.30125,
+          11.695,
+          12.08875,
+          12.4825,
+          12.87625,
+          13.27,
+          13.66375
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 4,
+        "time": 14.057500000000001,
+        "end": 18.78,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          14.057500000000001,
+          14.451041666666669,
+          14.844583333333334,
+          15.238125,
+          15.631666666666668,
+          16.025208333333335,
+          16.418750000000003,
+          16.812291666666667,
+          17.205833333333334,
+          17.599375000000002,
+          17.992916666666666,
+          18.386458333333334
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 5,
+        "time": 18.78,
+        "end": 22.5925,
+        "meter": "5/4",
+        "eighths": 10,
+        "beats": [
+          18.78,
+          19.161250000000003,
+          19.5425,
+          19.923750000000002,
+          20.305,
+          20.68625,
+          21.067500000000003,
+          21.44875,
+          21.830000000000002,
+          22.21125
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 6,
+        "time": 22.5925,
+        "end": 27.2775,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          22.5925,
+          22.982916666666668,
+          23.373333333333335,
+          23.76375,
+          24.15416666666667,
+          24.544583333333335,
+          24.935000000000002,
+          25.325416666666666,
+          25.715833333333332,
+          26.10625,
+          26.496666666666666,
+          26.887083333333333
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 7,
+        "time": 27.2775,
+        "end": 31.134999999999998,
+        "meter": "5/4",
+        "eighths": 10,
+        "beats": [
+          27.2775,
+          27.663249999999998,
+          28.049,
+          28.43475,
+          28.8205,
+          29.206249999999997,
+          29.592,
+          29.97775,
+          30.3635,
+          30.74925
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 8,
+        "time": 31.134999999999998,
+        "end": 35.84,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          31.134999999999998,
+          31.52708333333333,
+          31.919166666666666,
+          32.31125,
+          32.70333333333333,
+          33.095416666666665,
+          33.4875,
+          33.879583333333336,
+          34.27166666666667,
+          34.66375,
+          35.05583333333334,
+          35.44791666666667
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 9,
+        "time": 35.84,
+        "end": 40.3125,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          35.84,
+          36.21270833333334,
+          36.58541666666667,
+          36.958125,
+          37.33083333333334,
+          37.703541666666666,
+          38.07625,
+          38.44895833333334,
+          38.821666666666665,
+          39.194375,
+          39.567083333333336,
+          39.939791666666665
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 10,
+        "time": 40.3125,
+        "end": 44.71,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          40.3125,
+          40.678958333333334,
+          41.04541666666667,
+          41.411875,
+          41.778333333333336,
+          42.14479166666667,
+          42.511250000000004,
+          42.87770833333333,
+          43.244166666666665,
+          43.610625,
+          43.97708333333333,
+          44.34354166666667
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 11,
+        "time": 44.71,
+        "end": 48.31,
+        "meter": "5/4",
+        "eighths": 10,
+        "beats": [
+          44.71,
+          45.07,
+          45.43,
+          45.79,
+          46.15,
+          46.510000000000005,
+          46.870000000000005,
+          47.230000000000004,
+          47.59,
+          47.95
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 12,
+        "time": 48.31,
+        "end": 52.612500000000004,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          48.31,
+          48.66854166666667,
+          49.02708333333334,
+          49.385625000000005,
+          49.74416666666667,
+          50.10270833333334,
+          50.46125000000001,
+          50.81979166666667,
+          51.178333333333335,
+          51.536875,
+          51.89541666666667,
+          52.25395833333334
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 13,
+        "time": 52.612500000000004,
+        "end": 57.035,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          52.612500000000004,
+          52.98104166666667,
+          53.349583333333335,
+          53.718125,
+          54.086666666666666,
+          54.45520833333333,
+          54.823750000000004,
+          55.19229166666667,
+          55.560833333333335,
+          55.929375,
+          56.297916666666666,
+          56.66645833333333
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 14,
+        "time": 57.035,
+        "end": 61.5775,
+        "meter": "3/2",
+        "eighths": 12,
+        "beats": [
+          57.035,
+          57.41354166666666,
+          57.79208333333333,
+          58.170625,
+          58.549166666666665,
+          58.92770833333333,
+          59.30625,
+          59.68479166666667,
+          60.06333333333333,
+          60.441874999999996,
+          60.82041666666667,
+          61.19895833333334
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 15,
+        "time": 61.5775,
+        "end": 66.30250000000001,
+        "meter": "3/2",
+        "eighths": 12,
+        "beats": [
+          61.5775,
+          61.97125,
+          62.365,
+          62.758750000000006,
+          63.1525,
+          63.54625,
+          63.940000000000005,
+          64.33375000000001,
+          64.7275,
+          65.12125,
+          65.51500000000001,
+          65.90875000000001
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 16,
+        "time": 66.30250000000001,
+        "end": 71.1675,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          66.30250000000001,
+          66.70791666666668,
+          67.11333333333334,
+          67.51875000000001,
+          67.92416666666668,
+          68.32958333333335,
+          68.73500000000001,
+          69.14041666666667,
+          69.54583333333333,
+          69.95125,
+          70.35666666666667,
+          70.76208333333334
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 17,
+        "time": 71.1675,
+        "end": 75.855,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          71.1675,
+          71.558125,
+          71.94875,
+          72.339375,
+          72.73,
+          73.120625,
+          73.51125,
+          73.901875,
+          74.2925,
+          74.683125,
+          75.07375,
+          75.464375
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 18,
+        "time": 75.855,
+        "end": 80.3325,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          75.855,
+          76.228125,
+          76.60125000000001,
+          76.97437500000001,
+          77.3475,
+          77.720625,
+          78.09375,
+          78.466875,
+          78.84,
+          79.21312499999999,
+          79.58624999999999,
+          79.959375
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 19,
+        "time": 80.3325,
+        "end": 84.795,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          80.3325,
+          80.704375,
+          81.07625,
+          81.448125,
+          81.82,
+          82.191875,
+          82.56375,
+          82.935625,
+          83.3075,
+          83.679375,
+          84.05125,
+          84.423125
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 20,
+        "time": 84.795,
+        "end": 89.41499999999999,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          84.795,
+          85.18,
+          85.565,
+          85.95,
+          86.335,
+          86.72,
+          87.10499999999999,
+          87.49,
+          87.875,
+          88.25999999999999,
+          88.645,
+          89.02999999999999
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 21,
+        "time": 89.41499999999999,
+        "end": 94.0975,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          89.41499999999999,
+          89.80520833333333,
+          90.19541666666666,
+          90.585625,
+          90.97583333333333,
+          91.36604166666666,
+          91.75625,
+          92.14645833333333,
+          92.53666666666666,
+          92.926875,
+          93.31708333333333,
+          93.70729166666666
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 22,
+        "time": 94.0975,
+        "end": 98.715,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          94.0975,
+          94.48229166666667,
+          94.86708333333333,
+          95.251875,
+          95.63666666666667,
+          96.02145833333333,
+          96.40625,
+          96.79104166666667,
+          97.17583333333333,
+          97.560625,
+          97.94541666666667,
+          98.33020833333333
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      },
+      {
+        "bar": 23,
+        "time": 98.715,
+        "end": 103.315,
+        "meter": "6/4",
+        "eighths": 12,
+        "beats": [
+          98.715,
+          99.09833333333333,
+          99.48166666666667,
+          99.86500000000001,
+          100.24833333333333,
+          100.63166666666666,
+          101.015,
+          101.39833333333334,
+          101.78166666666667,
+          102.16499999999999,
+          102.54833333333333,
+          102.93166666666667
+        ],
+        "basis": "unapproved-model-pulse-bar-proposal",
+        "timingChecked": false
+      }
+    ]
+  },
+  "modeLinks": {
+    "practice": {
+      "label": "Pictures \u00b7 ready practice together",
+      "bundle": "../practice-ready/pairing.json"
+    },
+    "trial": {
+      "label": "Promenade I \u00b7 model bars",
+      "bundle": "pairing.json"
+    },
+    "gnomus": {
+      "label": "Gnomus \u00b7 uncertain bar trial",
+      "bundle": "../gnomus-codex-review/pairing.json"
+    },
+    "promenade2": {
+      "label": "Promenade II \u00b7 model bars",
+      "bundle": "../promenade-2-verification/pairing-v2.json"
+    },
+    "navigation": {
+      "label": "Pictures \u00b7 navigation only",
+      "bundle": "../player/pairing.json"
+    },
+    "baba": {
+      "label": "Liadov Baba Yaga \u00b7 video-assisted",
+      "bundle": "../../baba-yaga-blind/player/video-comparison.json"
+    }
+  }
+}

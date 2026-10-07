@@ -1,0 +1,6607 @@
+{
+  "schemaVersion": 1,
+  "id": "pictures-gnomus-fullscore-25023dabafa20e62-codex-reviewed-wrapper",
+  "title": "Pictures \u00b7 Gnomus \u00b7 full-score bar trial",
+  "duration": 142.0,
+  "description": "Gnomus only. Every bar of your Violin II part follows the recording, timed from the full score.",
+  "note": "Approximate full-score-assisted trial, not checked by ear. Compared with93 reviewer-estimated bar starts:80within0.15s; five differ by more than0.3s (1,17,18,47,103). Bar47 differs by about1.4s. Holds and their beat pulses are estimates, not heard beats. Timestamps only cut the movement.",
+  "matchingMode": "movement-cut-full-score-assisted-bar-trial-unaccepted",
+  "intendedUse": "approximate-play-along",
+  "musicalAccuracyApproved": false,
+  "audioUrl": "../gnomus-verification/recording.wav",
+  "partPages": [
+    {
+      "url": "../pdf/page-01.png",
+      "width": 1065,
+      "height": 1366,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-02.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    }
+  ],
+  "markers": [
+    {
+      "id": "bar-1",
+      "label": "Bar 1",
+      "time": 0.7622,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.3 s later.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar 2",
+      "time": 1.5618,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar 3",
+      "time": 2.3614,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar 4",
+      "time": 3.1361,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar 5",
+      "time": 3.8108,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar 6",
+      "time": 4.5105,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar 7",
+      "time": 5.2351,
+      "page": 1,
+      "rect": {
+        "x": 0.3888506538196834,
+        "y": 0.6844733172432287,
+        "w": 0.11975223675154852,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar 8",
+      "time": 5.9848,
+      "page": 1,
+      "rect": {
+        "x": 0.508602890571232,
+        "y": 0.6844733172432287,
+        "w": 0.11114934618031659,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar 9",
+      "time": 6.7844,
+      "page": 1,
+      "rect": {
+        "x": 0.6197522367515486,
+        "y": 0.6844733172432287,
+        "w": 0.11321403991741225,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar 10 \u00b7 fermata",
+      "time": 7.609,
+      "page": 1,
+      "rect": {
+        "x": 0.7329662766689607,
+        "y": 0.6844733172432287,
+        "w": 0.09876118375774261,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar 11",
+      "time": 8.8835,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar 12",
+      "time": 9.6831,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-13",
+      "label": "Bar 13",
+      "time": 10.4578,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-14",
+      "label": "Bar 14",
+      "time": 11.2074,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-15",
+      "label": "Bar 15",
+      "time": 11.9821,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-16",
+      "label": "Bar 16",
+      "time": 12.8067,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-17",
+      "label": "Bar 17",
+      "time": 13.6813,
+      "page": 1,
+      "rect": {
+        "x": 0.11321403991741225,
+        "y": 0.7566642531509787,
+        "w": 0.1517549896765313,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.5 s earlier.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-18",
+      "label": "Bar 18 \u00b7 general pause",
+      "time": 14.5559,
+      "page": 1,
+      "rect": {
+        "x": 0.2649690295939436,
+        "y": 0.7566642531509787,
+        "w": 0.08706125258086717,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.6 s earlier; nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-19",
+      "label": "Bar 19",
+      "time": 15.4555,
+      "page": 1,
+      "rect": {
+        "x": 0.35203028217481075,
+        "y": 0.7566642531509787,
+        "w": 0.13626978664831382,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-20",
+      "label": "Bar 20",
+      "time": 16.3301,
+      "page": 1,
+      "rect": {
+        "x": 0.48830006882312454,
+        "y": 0.7566642531509787,
+        "w": 0.09635237439779766,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-21",
+      "label": "Bar 21",
+      "time": 17.1547,
+      "page": 1,
+      "rect": {
+        "x": 0.5846524432209222,
+        "y": 0.7566642531509787,
+        "w": 0.11355815554026152,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-22",
+      "label": "Bar 22",
+      "time": 17.9793,
+      "page": 1,
+      "rect": {
+        "x": 0.6982105987611837,
+        "y": 0.7566642531509787,
+        "w": 0.06641431520991053,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-23",
+      "label": "Bar 23",
+      "time": 18.779,
+      "page": 1,
+      "rect": {
+        "x": 0.7646249139710943,
+        "y": 0.7566642531509787,
+        "w": 0.1428079834824501,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-24",
+      "label": "Bar 24",
+      "time": 19.5786,
+      "page": 1,
+      "rect": {
+        "x": 0.11355815554026152,
+        "y": 0.8294183427192277,
+        "w": 0.15072264280798348,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-25",
+      "label": "Bar 25",
+      "time": 20.3533,
+      "page": 1,
+      "rect": {
+        "x": 0.264280798348245,
+        "y": 0.8294183427192277,
+        "w": 0.09256710254645562,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-26",
+      "label": "Bar 26",
+      "time": 21.1279,
+      "page": 1,
+      "rect": {
+        "x": 0.35684790089470064,
+        "y": 0.8294183427192277,
+        "w": 0.11149346180316587,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-27",
+      "label": "Bar 27",
+      "time": 21.9026,
+      "page": 1,
+      "rect": {
+        "x": 0.46834136269786647,
+        "y": 0.8294183427192277,
+        "w": 0.11906400550584996,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-28",
+      "label": "Bar 28 \u00b7 general pause",
+      "time": 22.7022,
+      "page": 1,
+      "rect": {
+        "x": 0.5874053682037165,
+        "y": 0.8294183427192277,
+        "w": 0.12078458362009635,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-29",
+      "label": "Bar 29",
+      "time": 24.2015,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-30",
+      "label": "Bar 30",
+      "time": 25.0012,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-31",
+      "label": "Bar 31",
+      "time": 25.8258,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-32",
+      "label": "Bar 32",
+      "time": 26.6504,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-33",
+      "label": "Bar 33",
+      "time": 27.45,
+      "page": 2,
+      "rect": {
+        "x": 0.10027567195037905,
+        "y": 0.10025503896801935,
+        "w": 0.15541006202618884,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-34",
+      "label": "Bar 34",
+      "time": 28.2497,
+      "page": 2,
+      "rect": {
+        "x": 0.2556857339765679,
+        "y": 0.10025503896801935,
+        "w": 0.11853893866299105,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-35",
+      "label": "Bar 35",
+      "time": 29.0243,
+      "page": 2,
+      "rect": {
+        "x": 0.37422467263955894,
+        "y": 0.10025503896801935,
+        "w": 0.11095796002756719,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-36",
+      "label": "Bar 36",
+      "time": 29.824,
+      "page": 2,
+      "rect": {
+        "x": 0.48518263266712613,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-37",
+      "label": "Bar 37",
+      "time": 30.5986,
+      "page": 2,
+      "rect": {
+        "x": 0.48518263266712613,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-38",
+      "label": "Bar 38 \u00b7 general pause",
+      "time": 31.3483,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.10025503896801935,
+        "w": 0.10613370089593384,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-39",
+      "label": "Bar 39",
+      "time": 32.7227,
+      "page": 2,
+      "rect": {
+        "x": 0.6991729841488629,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-40",
+      "label": "Bar 40",
+      "time": 33.4473,
+      "page": 2,
+      "rect": {
+        "x": 0.6991729841488629,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-41",
+      "label": "Bar 41 \u00b7 general pause",
+      "time": 34.172,
+      "page": 2,
+      "rect": {
+        "x": 0.8070296347346657,
+        "y": 0.10025503896801935,
+        "w": 0.1050999310820124,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-42",
+      "label": "Bar 42",
+      "time": 35.2465,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-43",
+      "label": "Bar 43",
+      "time": 35.9712,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-44",
+      "label": "Bar 44",
+      "time": 36.6959,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-45",
+      "label": "Bar 45",
+      "time": 37.4205,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-46",
+      "label": "Bar 46 \u00b7 fermata",
+      "time": 38.1702,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-47",
+      "label": "Bar 47 \u00b7 fermata",
+      "time": 41.2688,
+      "page": 2,
+      "rect": {
+        "x": 0.2549965541006203,
+        "y": 0.17316554689599573,
+        "w": 0.11371467953135768,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 1.4 s earlier; fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-48",
+      "label": "Bar 48",
+      "time": 42.0684,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-49",
+      "label": "Bar 49",
+      "time": 44.4423,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-50",
+      "label": "Bar 50",
+      "time": 46.8912,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-51",
+      "label": "Bar 51",
+      "time": 49.3401,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-52",
+      "label": "Bar 52",
+      "time": 51.789,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-53",
+      "label": "Bar 53",
+      "time": 54.2129,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-54",
+      "label": "Bar 54",
+      "time": 56.6368,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-55",
+      "label": "Bar 55",
+      "time": 59.0107,
+      "page": 2,
+      "rect": {
+        "x": 0.4862164024810475,
+        "y": 0.17316554689599573,
+        "w": 0.11819434872501723,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-56",
+      "label": "Bar 56 \u00b7 fermata",
+      "time": 59.8853,
+      "page": 2,
+      "rect": {
+        "x": 0.6044107512060648,
+        "y": 0.17316554689599573,
+        "w": 0.09682977257064093,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-57",
+      "label": "Bar 57",
+      "time": 61.6845,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-58",
+      "label": "Bar 58",
+      "time": 64.1084,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-59",
+      "label": "Bar 59",
+      "time": 66.5573,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-60",
+      "label": "Bar 60",
+      "time": 69.0562,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-61",
+      "label": "Bar 61",
+      "time": 71.555,
+      "page": 2,
+      "rect": {
+        "x": 0.8046175051688491,
+        "y": 0.17316554689599573,
+        "w": 0.10751206064782909,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-62",
+      "label": "Bar 62",
+      "time": 73.929,
+      "page": 2,
+      "rect": {
+        "x": 0.10578911095796002,
+        "y": 0.2454848159097017,
+        "w": 0.1206064782908339,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-63",
+      "label": "Bar 63",
+      "time": 76.2529,
+      "page": 2,
+      "rect": {
+        "x": 0.22639558924879394,
+        "y": 0.2454848159097017,
+        "w": 0.11888352860096485,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-64",
+      "label": "Bar 64",
+      "time": 78.4769,
+      "page": 2,
+      "rect": {
+        "x": 0.3452791178497588,
+        "y": 0.2454848159097017,
+        "w": 0.14955203308063406,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-65",
+      "label": "Bar 65 \u00b7 fermata",
+      "time": 79.3515,
+      "page": 2,
+      "rect": {
+        "x": 0.4948311509303928,
+        "y": 0.2454848159097017,
+        "w": 0.09820813232253618,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-66",
+      "label": "Bar 66",
+      "time": 81.3756,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.2454848159097017,
+        "w": 0.10234321157822192,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-67",
+      "label": "Bar 67",
+      "time": 83.7995,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.2454848159097017,
+        "w": 0.10234321157822192,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-68",
+      "label": "Bar 68",
+      "time": 86.1234,
+      "page": 2,
+      "rect": {
+        "x": 0.6953824948311509,
+        "y": 0.2454848159097017,
+        "w": 0.21778084079944865,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-69",
+      "label": "Bar 69 \u00b7 fermata",
+      "time": 86.998,
+      "page": 2,
+      "rect": {
+        "x": 0.11026878015161957,
+        "y": 0.31713222252082773,
+        "w": 0.13059958649207443,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-70",
+      "label": "Bar 70",
+      "time": 88.4224,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-71",
+      "label": "Bar 71",
+      "time": 90.6963,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-72",
+      "label": "Bar 72",
+      "time": 92.8704,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-73",
+      "label": "Bar 73",
+      "time": 95.0194,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-74",
+      "label": "Bar 74",
+      "time": 97.1684,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-75",
+      "label": "Bar 75",
+      "time": 99.3174,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-76",
+      "label": "Bar 76",
+      "time": 101.4915,
+      "page": 2,
+      "rect": {
+        "x": 0.3401102687801516,
+        "y": 0.31713222252082773,
+        "w": 0.1416264645072364,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-77",
+      "label": "Bar 77",
+      "time": 103.7654,
+      "page": 2,
+      "rect": {
+        "x": 0.48173673328738803,
+        "y": 0.31713222252082773,
+        "w": 0.16747070985527224,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-78",
+      "label": "Bar 78",
+      "time": 105.9894,
+      "page": 2,
+      "rect": {
+        "x": 0.6492074431426602,
+        "y": 0.31713222252082773,
+        "w": 0.142315644383184,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-79",
+      "label": "Bar 79",
+      "time": 108.1384,
+      "page": 2,
+      "rect": {
+        "x": 0.7915230875258442,
+        "y": 0.31713222252082773,
+        "w": 0.1206064782908339,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-80",
+      "label": "Bar 80",
+      "time": 110.2375,
+      "page": 2,
+      "rect": {
+        "x": 0.10337698139214335,
+        "y": 0.38888712711636664,
+        "w": 0.17711922811853895,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-81",
+      "label": "Bar 81",
+      "time": 112.4115,
+      "page": 2,
+      "rect": {
+        "x": 0.28049620951068227,
+        "y": 0.38888712711636664,
+        "w": 0.13197794624396966,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-82",
+      "label": "Bar 82",
+      "time": 114.7854,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-83",
+      "label": "Bar 83",
+      "time": 115.9099,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-84",
+      "label": "Bar 84",
+      "time": 117.0094,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-85",
+      "label": "Bar 85",
+      "time": 118.0339,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-86",
+      "label": "Bar 86",
+      "time": 118.9835,
+      "page": 2,
+      "rect": {
+        "x": 0.5086147484493453,
+        "y": 0.38888712711636664,
+        "w": 0.11026878015161957,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-87",
+      "label": "Bar 87",
+      "time": 119.8581,
+      "page": 2,
+      "rect": {
+        "x": 0.6188835286009648,
+        "y": 0.38888712711636664,
+        "w": 0.10578911095796002,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-88",
+      "label": "Bar 88",
+      "time": 120.6827,
+      "page": 2,
+      "rect": {
+        "x": 0.7246726395589249,
+        "y": 0.38888712711636664,
+        "w": 0.09407305306685045,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-89",
+      "label": "Bar 89",
+      "time": 121.5324,
+      "page": 2,
+      "rect": {
+        "x": 0.8187456926257753,
+        "y": 0.38888712711636664,
+        "w": 0.09441764300482426,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-90",
+      "label": "Bar 90",
+      "time": 122.357,
+      "page": 2,
+      "rect": {
+        "x": 0.10441075120606479,
+        "y": 0.4603732867508734,
+        "w": 0.1481736733287388,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-91",
+      "label": "Bar 91",
+      "time": 123.1316,
+      "page": 2,
+      "rect": {
+        "x": 0.25258442453480356,
+        "y": 0.4603732867508734,
+        "w": 0.09372846312887664,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-92",
+      "label": "Bar 92",
+      "time": 123.8813,
+      "page": 2,
+      "rect": {
+        "x": 0.34631288766368024,
+        "y": 0.4603732867508734,
+        "w": 0.10751206064782909,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-93",
+      "label": "Bar 93",
+      "time": 124.631,
+      "page": 2,
+      "rect": {
+        "x": 0.4538249483115093,
+        "y": 0.4603732867508734,
+        "w": 0.10647829083390765,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-94",
+      "label": "Bar 94",
+      "time": 125.3556,
+      "page": 2,
+      "rect": {
+        "x": 0.5603032391454169,
+        "y": 0.4603732867508734,
+        "w": 0.12991040661612682,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-95",
+      "label": "Bar 95",
+      "time": 126.0803,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-96",
+      "label": "Bar 96",
+      "time": 126.8549,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-97",
+      "label": "Bar 97",
+      "time": 127.6546,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-98",
+      "label": "Bar 98",
+      "time": 128.4042,
+      "page": 2,
+      "rect": {
+        "x": 0.10268780151619572,
+        "y": 0.5330150497178178,
+        "w": 0.19021364576154376,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-99",
+      "label": "Bar 99",
+      "time": 129.1539,
+      "page": 2,
+      "rect": {
+        "x": 0.2929014472777395,
+        "y": 0.5330150497178178,
+        "w": 0.12887663680220537,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-100",
+      "label": "Bar 100",
+      "time": 129.9036,
+      "page": 2,
+      "rect": {
+        "x": 0.4217780840799449,
+        "y": 0.5330150497178178,
+        "w": 0.22019297036526533,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-101",
+      "label": "Bar 101 \u00b7 general pause",
+      "time": 130.8281,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-102",
+      "label": "Bar 102",
+      "time": 131.7527,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-103",
+      "label": "Bar 103 \u00b7 fermata",
+      "time": 132.7023,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 1.1 s later; nothing new is played on this downbeat, so the bar line cannot be heard; fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-104",
+      "label": "Bar 104",
+      "time": 135.9258,
+      "page": 2,
+      "rect": {
+        "x": 0.10475534114403859,
+        "y": 0.6058180596613812,
+        "w": 0.1485182632667126,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-105",
+      "label": "Bar 105",
+      "time": 136.8254,
+      "page": 2,
+      "rect": {
+        "x": 0.2532736044107512,
+        "y": 0.6058180596613812,
+        "w": 0.12887663680220537,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-106",
+      "label": "Bar 106",
+      "time": 137.3752,
+      "page": 2,
+      "rect": {
+        "x": 0.3821502412129566,
+        "y": 0.6058180596613812,
+        "w": 0.13714679531357685,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-107",
+      "label": "Bar 107",
+      "time": 137.9249,
+      "page": 2,
+      "rect": {
+        "x": 0.5192970365265335,
+        "y": 0.6058180596613812,
+        "w": 0.1357684355616816,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-108",
+      "label": "Bar 108",
+      "time": 138.4747,
+      "page": 2,
+      "rect": {
+        "x": 0.655065472088215,
+        "y": 0.6058180596613812,
+        "w": 0.13163335630599587,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    },
+    {
+      "id": "bar-109",
+      "label": "Bar 109 \u00b7 fermata",
+      "time": 139.0494,
+      "page": 2,
+      "rect": {
+        "x": 0.7866988283942109,
+        "y": 0.6058180596613812,
+        "w": 0.12611991729841487,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement."
+    }
+  ],
+  "spans": [
+    {
+      "id": "bar-1",
+      "label": "Bar 1",
+      "time": 0.7622,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.3 s later.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 0.7622,
+      "end": 1.5618
+    },
+    {
+      "id": "bar-2",
+      "label": "Bar 2",
+      "time": 1.5618,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 1.5618,
+      "end": 2.3614
+    },
+    {
+      "id": "bar-3",
+      "label": "Bar 3",
+      "time": 2.3614,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 2.3614,
+      "end": 3.1361
+    },
+    {
+      "id": "bar-4",
+      "label": "Bar 4",
+      "time": 3.1361,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 3.1361,
+      "end": 3.8108
+    },
+    {
+      "id": "bar-5",
+      "label": "Bar 5",
+      "time": 3.8108,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 3.8108,
+      "end": 4.5105
+    },
+    {
+      "id": "bar-6",
+      "label": "Bar 6",
+      "time": 4.5105,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 4.5105,
+      "end": 5.2351
+    },
+    {
+      "id": "bar-7",
+      "label": "Bar 7",
+      "time": 5.2351,
+      "page": 1,
+      "rect": {
+        "x": 0.3888506538196834,
+        "y": 0.6844733172432287,
+        "w": 0.11975223675154852,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 5.2351,
+      "end": 5.9848
+    },
+    {
+      "id": "bar-8",
+      "label": "Bar 8",
+      "time": 5.9848,
+      "page": 1,
+      "rect": {
+        "x": 0.508602890571232,
+        "y": 0.6844733172432287,
+        "w": 0.11114934618031659,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 5.9848,
+      "end": 6.7844
+    },
+    {
+      "id": "bar-9",
+      "label": "Bar 9",
+      "time": 6.7844,
+      "page": 1,
+      "rect": {
+        "x": 0.6197522367515486,
+        "y": 0.6844733172432287,
+        "w": 0.11321403991741225,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 6.7844,
+      "end": 7.609
+    },
+    {
+      "id": "bar-10",
+      "label": "Bar 10 \u00b7 fermata",
+      "time": 7.609,
+      "page": 1,
+      "rect": {
+        "x": 0.7329662766689607,
+        "y": 0.6844733172432287,
+        "w": 0.09876118375774261,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 7.609,
+      "end": 8.8835
+    },
+    {
+      "id": "bar-11",
+      "label": "Bar 11",
+      "time": 8.8835,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 8.8835,
+      "end": 9.6831
+    },
+    {
+      "id": "bar-12",
+      "label": "Bar 12",
+      "time": 9.6831,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 9.6831,
+      "end": 10.4578
+    },
+    {
+      "id": "bar-13",
+      "label": "Bar 13",
+      "time": 10.4578,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 10.4578,
+      "end": 11.2074
+    },
+    {
+      "id": "bar-14",
+      "label": "Bar 14",
+      "time": 11.2074,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 11.2074,
+      "end": 11.9821
+    },
+    {
+      "id": "bar-15",
+      "label": "Bar 15",
+      "time": 11.9821,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 11.9821,
+      "end": 12.8067
+    },
+    {
+      "id": "bar-16",
+      "label": "Bar 16",
+      "time": 12.8067,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 12.8067,
+      "end": 13.6813
+    },
+    {
+      "id": "bar-17",
+      "label": "Bar 17",
+      "time": 13.6813,
+      "page": 1,
+      "rect": {
+        "x": 0.11321403991741225,
+        "y": 0.7566642531509787,
+        "w": 0.1517549896765313,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.5 s earlier.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 13.6813,
+      "end": 14.5559
+    },
+    {
+      "id": "bar-18",
+      "label": "Bar 18 \u00b7 general pause",
+      "time": 14.5559,
+      "page": 1,
+      "rect": {
+        "x": 0.2649690295939436,
+        "y": 0.7566642531509787,
+        "w": 0.08706125258086717,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 0.6 s earlier; nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 14.5559,
+      "end": 15.4555
+    },
+    {
+      "id": "bar-19",
+      "label": "Bar 19",
+      "time": 15.4555,
+      "page": 1,
+      "rect": {
+        "x": 0.35203028217481075,
+        "y": 0.7566642531509787,
+        "w": 0.13626978664831382,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 15.4555,
+      "end": 16.3301
+    },
+    {
+      "id": "bar-20",
+      "label": "Bar 20",
+      "time": 16.3301,
+      "page": 1,
+      "rect": {
+        "x": 0.48830006882312454,
+        "y": 0.7566642531509787,
+        "w": 0.09635237439779766,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 16.3301,
+      "end": 17.1547
+    },
+    {
+      "id": "bar-21",
+      "label": "Bar 21",
+      "time": 17.1547,
+      "page": 1,
+      "rect": {
+        "x": 0.5846524432209222,
+        "y": 0.7566642531509787,
+        "w": 0.11355815554026152,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 17.1547,
+      "end": 17.9793
+    },
+    {
+      "id": "bar-22",
+      "label": "Bar 22",
+      "time": 17.9793,
+      "page": 1,
+      "rect": {
+        "x": 0.6982105987611837,
+        "y": 0.7566642531509787,
+        "w": 0.06641431520991053,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 17.9793,
+      "end": 18.779
+    },
+    {
+      "id": "bar-23",
+      "label": "Bar 23",
+      "time": 18.779,
+      "page": 1,
+      "rect": {
+        "x": 0.7646249139710943,
+        "y": 0.7566642531509787,
+        "w": 0.1428079834824501,
+        "h": 0.08922338428533139
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 18.779,
+      "end": 19.5786
+    },
+    {
+      "id": "bar-24",
+      "label": "Bar 24",
+      "time": 19.5786,
+      "page": 1,
+      "rect": {
+        "x": 0.11355815554026152,
+        "y": 0.8294183427192277,
+        "w": 0.15072264280798348,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 19.5786,
+      "end": 20.3533
+    },
+    {
+      "id": "bar-25",
+      "label": "Bar 25",
+      "time": 20.3533,
+      "page": 1,
+      "rect": {
+        "x": 0.264280798348245,
+        "y": 0.8294183427192277,
+        "w": 0.09256710254645562,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 20.3533,
+      "end": 21.1279
+    },
+    {
+      "id": "bar-26",
+      "label": "Bar 26",
+      "time": 21.1279,
+      "page": 1,
+      "rect": {
+        "x": 0.35684790089470064,
+        "y": 0.8294183427192277,
+        "w": 0.11149346180316587,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 21.1279,
+      "end": 21.9026
+    },
+    {
+      "id": "bar-27",
+      "label": "Bar 27",
+      "time": 21.9026,
+      "page": 1,
+      "rect": {
+        "x": 0.46834136269786647,
+        "y": 0.8294183427192277,
+        "w": 0.11906400550584996,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 21.9026,
+      "end": 22.7022
+    },
+    {
+      "id": "bar-28",
+      "label": "Bar 28 \u00b7 general pause",
+      "time": 22.7022,
+      "page": 1,
+      "rect": {
+        "x": 0.5874053682037165,
+        "y": 0.8294183427192277,
+        "w": 0.12078458362009635,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 22.7022,
+      "end": 24.2015
+    },
+    {
+      "id": "bar-29",
+      "label": "Bar 29",
+      "time": 24.2015,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 24.2015,
+      "end": 25.0012
+    },
+    {
+      "id": "bar-30",
+      "label": "Bar 30",
+      "time": 25.0012,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 25.0012,
+      "end": 25.8258
+    },
+    {
+      "id": "bar-31",
+      "label": "Bar 31",
+      "time": 25.8258,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 25.8258,
+      "end": 26.6504
+    },
+    {
+      "id": "bar-32",
+      "label": "Bar 32",
+      "time": 26.6504,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 26.6504,
+      "end": 27.45
+    },
+    {
+      "id": "bar-33",
+      "label": "Bar 33",
+      "time": 27.45,
+      "page": 2,
+      "rect": {
+        "x": 0.10027567195037905,
+        "y": 0.10025503896801935,
+        "w": 0.15541006202618884,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 27.45,
+      "end": 28.2497
+    },
+    {
+      "id": "bar-34",
+      "label": "Bar 34",
+      "time": 28.2497,
+      "page": 2,
+      "rect": {
+        "x": 0.2556857339765679,
+        "y": 0.10025503896801935,
+        "w": 0.11853893866299105,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 28.2497,
+      "end": 29.0243
+    },
+    {
+      "id": "bar-35",
+      "label": "Bar 35",
+      "time": 29.0243,
+      "page": 2,
+      "rect": {
+        "x": 0.37422467263955894,
+        "y": 0.10025503896801935,
+        "w": 0.11095796002756719,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 29.0243,
+      "end": 29.824
+    },
+    {
+      "id": "bar-36",
+      "label": "Bar 36",
+      "time": 29.824,
+      "page": 2,
+      "rect": {
+        "x": 0.48518263266712613,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 29.824,
+      "end": 30.5986
+    },
+    {
+      "id": "bar-37",
+      "label": "Bar 37",
+      "time": 30.5986,
+      "page": 2,
+      "rect": {
+        "x": 0.48518263266712613,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 30.5986,
+      "end": 31.3483
+    },
+    {
+      "id": "bar-38",
+      "label": "Bar 38 \u00b7 general pause",
+      "time": 31.3483,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.10025503896801935,
+        "w": 0.10613370089593384,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 31.3483,
+      "end": 32.7227
+    },
+    {
+      "id": "bar-39",
+      "label": "Bar 39",
+      "time": 32.7227,
+      "page": 2,
+      "rect": {
+        "x": 0.6991729841488629,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 32.7227,
+      "end": 33.4473
+    },
+    {
+      "id": "bar-40",
+      "label": "Bar 40",
+      "time": 33.4473,
+      "page": 2,
+      "rect": {
+        "x": 0.6991729841488629,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 33.4473,
+      "end": 34.172
+    },
+    {
+      "id": "bar-41",
+      "label": "Bar 41 \u00b7 general pause",
+      "time": 34.172,
+      "page": 2,
+      "rect": {
+        "x": 0.8070296347346657,
+        "y": 0.10025503896801935,
+        "w": 0.1050999310820124,
+        "h": 0.0894883095941951
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 34.172,
+      "end": 35.2465
+    },
+    {
+      "id": "bar-42",
+      "label": "Bar 42",
+      "time": 35.2465,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 35.2465,
+      "end": 35.9712
+    },
+    {
+      "id": "bar-43",
+      "label": "Bar 43",
+      "time": 35.9712,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 35.9712,
+      "end": 36.6959
+    },
+    {
+      "id": "bar-44",
+      "label": "Bar 44",
+      "time": 36.6959,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 36.6959,
+      "end": 37.4205
+    },
+    {
+      "id": "bar-45",
+      "label": "Bar 45",
+      "time": 37.4205,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 37.4205,
+      "end": 38.1702
+    },
+    {
+      "id": "bar-46",
+      "label": "Bar 46 \u00b7 fermata",
+      "time": 38.1702,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 38.1702,
+      "end": 41.2688
+    },
+    {
+      "id": "bar-47",
+      "label": "Bar 47 \u00b7 fermata",
+      "time": 41.2688,
+      "page": 2,
+      "rect": {
+        "x": 0.2549965541006203,
+        "y": 0.17316554689599573,
+        "w": 0.11371467953135768,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 1.4 s earlier; fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 41.2688,
+      "end": 42.0684
+    },
+    {
+      "id": "bar-48",
+      "label": "Bar 48",
+      "time": 42.0684,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 42.0684,
+      "end": 44.4423
+    },
+    {
+      "id": "bar-49",
+      "label": "Bar 49",
+      "time": 44.4423,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 44.4423,
+      "end": 46.8912
+    },
+    {
+      "id": "bar-50",
+      "label": "Bar 50",
+      "time": 46.8912,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 46.8912,
+      "end": 49.3401
+    },
+    {
+      "id": "bar-51",
+      "label": "Bar 51",
+      "time": 49.3401,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 49.3401,
+      "end": 51.789
+    },
+    {
+      "id": "bar-52",
+      "label": "Bar 52",
+      "time": 51.789,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 51.789,
+      "end": 54.2129
+    },
+    {
+      "id": "bar-53",
+      "label": "Bar 53",
+      "time": 54.2129,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 54.2129,
+      "end": 56.6368
+    },
+    {
+      "id": "bar-54",
+      "label": "Bar 54",
+      "time": 56.6368,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 56.6368,
+      "end": 59.0107
+    },
+    {
+      "id": "bar-55",
+      "label": "Bar 55",
+      "time": 59.0107,
+      "page": 2,
+      "rect": {
+        "x": 0.4862164024810475,
+        "y": 0.17316554689599573,
+        "w": 0.11819434872501723,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 59.0107,
+      "end": 59.8853
+    },
+    {
+      "id": "bar-56",
+      "label": "Bar 56 \u00b7 fermata",
+      "time": 59.8853,
+      "page": 2,
+      "rect": {
+        "x": 0.6044107512060648,
+        "y": 0.17316554689599573,
+        "w": 0.09682977257064093,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 59.8853,
+      "end": 61.6845
+    },
+    {
+      "id": "bar-57",
+      "label": "Bar 57",
+      "time": 61.6845,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 61.6845,
+      "end": 64.1084
+    },
+    {
+      "id": "bar-58",
+      "label": "Bar 58",
+      "time": 64.1084,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 64.1084,
+      "end": 66.5573
+    },
+    {
+      "id": "bar-59",
+      "label": "Bar 59",
+      "time": 66.5573,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 66.5573,
+      "end": 69.0562
+    },
+    {
+      "id": "bar-60",
+      "label": "Bar 60",
+      "time": 69.0562,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 69.0562,
+      "end": 71.555
+    },
+    {
+      "id": "bar-61",
+      "label": "Bar 61",
+      "time": 71.555,
+      "page": 2,
+      "rect": {
+        "x": 0.8046175051688491,
+        "y": 0.17316554689599573,
+        "w": 0.10751206064782909,
+        "h": 0.08991830153184627
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 71.555,
+      "end": 73.929
+    },
+    {
+      "id": "bar-62",
+      "label": "Bar 62",
+      "time": 73.929,
+      "page": 2,
+      "rect": {
+        "x": 0.10578911095796002,
+        "y": 0.2454848159097017,
+        "w": 0.1206064782908339,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 73.929,
+      "end": 76.2529
+    },
+    {
+      "id": "bar-63",
+      "label": "Bar 63",
+      "time": 76.2529,
+      "page": 2,
+      "rect": {
+        "x": 0.22639558924879394,
+        "y": 0.2454848159097017,
+        "w": 0.11888352860096485,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 76.2529,
+      "end": 78.4769
+    },
+    {
+      "id": "bar-64",
+      "label": "Bar 64",
+      "time": 78.4769,
+      "page": 2,
+      "rect": {
+        "x": 0.3452791178497588,
+        "y": 0.2454848159097017,
+        "w": 0.14955203308063406,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 78.4769,
+      "end": 79.3515
+    },
+    {
+      "id": "bar-65",
+      "label": "Bar 65 \u00b7 fermata",
+      "time": 79.3515,
+      "page": 2,
+      "rect": {
+        "x": 0.4948311509303928,
+        "y": 0.2454848159097017,
+        "w": 0.09820813232253618,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 79.3515,
+      "end": 81.3756
+    },
+    {
+      "id": "bar-66",
+      "label": "Bar 66",
+      "time": 81.3756,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.2454848159097017,
+        "w": 0.10234321157822192,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 81.3756,
+      "end": 83.7995
+    },
+    {
+      "id": "bar-67",
+      "label": "Bar 67",
+      "time": 83.7995,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.2454848159097017,
+        "w": 0.10234321157822192,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 83.7995,
+      "end": 86.1234
+    },
+    {
+      "id": "bar-68",
+      "label": "Bar 68",
+      "time": 86.1234,
+      "page": 2,
+      "rect": {
+        "x": 0.6953824948311509,
+        "y": 0.2454848159097017,
+        "w": 0.21778084079944865,
+        "h": 0.08983767804353673
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 86.1234,
+      "end": 86.998
+    },
+    {
+      "id": "bar-69",
+      "label": "Bar 69 \u00b7 fermata",
+      "time": 86.998,
+      "page": 2,
+      "rect": {
+        "x": 0.11026878015161957,
+        "y": 0.31713222252082773,
+        "w": 0.13059958649207443,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 86.998,
+      "end": 88.4224
+    },
+    {
+      "id": "bar-70",
+      "label": "Bar 70",
+      "time": 88.4224,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 88.4224,
+      "end": 90.6963
+    },
+    {
+      "id": "bar-71",
+      "label": "Bar 71",
+      "time": 90.6963,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 90.6963,
+      "end": 92.8704
+    },
+    {
+      "id": "bar-72",
+      "label": "Bar 72",
+      "time": 92.8704,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 92.8704,
+      "end": 95.0194
+    },
+    {
+      "id": "bar-73",
+      "label": "Bar 73",
+      "time": 95.0194,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 95.0194,
+      "end": 97.1684
+    },
+    {
+      "id": "bar-74",
+      "label": "Bar 74",
+      "time": 97.1684,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 97.1684,
+      "end": 99.3174
+    },
+    {
+      "id": "bar-75",
+      "label": "Bar 75",
+      "time": 99.3174,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 99.3174,
+      "end": 101.4915
+    },
+    {
+      "id": "bar-76",
+      "label": "Bar 76",
+      "time": 101.4915,
+      "page": 2,
+      "rect": {
+        "x": 0.3401102687801516,
+        "y": 0.31713222252082773,
+        "w": 0.1416264645072364,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 101.4915,
+      "end": 103.7654
+    },
+    {
+      "id": "bar-77",
+      "label": "Bar 77",
+      "time": 103.7654,
+      "page": 2,
+      "rect": {
+        "x": 0.48173673328738803,
+        "y": 0.31713222252082773,
+        "w": 0.16747070985527224,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 103.7654,
+      "end": 105.9894
+    },
+    {
+      "id": "bar-78",
+      "label": "Bar 78",
+      "time": 105.9894,
+      "page": 2,
+      "rect": {
+        "x": 0.6492074431426602,
+        "y": 0.31713222252082773,
+        "w": 0.142315644383184,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 105.9894,
+      "end": 108.1384
+    },
+    {
+      "id": "bar-79",
+      "label": "Bar 79",
+      "time": 108.1384,
+      "page": 2,
+      "rect": {
+        "x": 0.7915230875258442,
+        "y": 0.31713222252082773,
+        "w": 0.1206064782908339,
+        "h": 0.0901332975006719
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 108.1384,
+      "end": 110.2375
+    },
+    {
+      "id": "bar-80",
+      "label": "Bar 80",
+      "time": 110.2375,
+      "page": 2,
+      "rect": {
+        "x": 0.10337698139214335,
+        "y": 0.38888712711636664,
+        "w": 0.17711922811853895,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 110.2375,
+      "end": 112.4115
+    },
+    {
+      "id": "bar-81",
+      "label": "Bar 81",
+      "time": 112.4115,
+      "page": 2,
+      "rect": {
+        "x": 0.28049620951068227,
+        "y": 0.38888712711636664,
+        "w": 0.13197794624396966,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 112.4115,
+      "end": 114.7854
+    },
+    {
+      "id": "bar-82",
+      "label": "Bar 82",
+      "time": 114.7854,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 114.7854,
+      "end": 115.9099
+    },
+    {
+      "id": "bar-83",
+      "label": "Bar 83",
+      "time": 115.9099,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 115.9099,
+      "end": 117.0094
+    },
+    {
+      "id": "bar-84",
+      "label": "Bar 84",
+      "time": 117.0094,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 117.0094,
+      "end": 118.0339
+    },
+    {
+      "id": "bar-85",
+      "label": "Bar 85",
+      "time": 118.0339,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 118.0339,
+      "end": 118.9835
+    },
+    {
+      "id": "bar-86",
+      "label": "Bar 86",
+      "time": 118.9835,
+      "page": 2,
+      "rect": {
+        "x": 0.5086147484493453,
+        "y": 0.38888712711636664,
+        "w": 0.11026878015161957,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 118.9835,
+      "end": 119.8581
+    },
+    {
+      "id": "bar-87",
+      "label": "Bar 87",
+      "time": 119.8581,
+      "page": 2,
+      "rect": {
+        "x": 0.6188835286009648,
+        "y": 0.38888712711636664,
+        "w": 0.10578911095796002,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 119.8581,
+      "end": 120.6827
+    },
+    {
+      "id": "bar-88",
+      "label": "Bar 88",
+      "time": 120.6827,
+      "page": 2,
+      "rect": {
+        "x": 0.7246726395589249,
+        "y": 0.38888712711636664,
+        "w": 0.09407305306685045,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 120.6827,
+      "end": 121.5324
+    },
+    {
+      "id": "bar-89",
+      "label": "Bar 89",
+      "time": 121.5324,
+      "page": 2,
+      "rect": {
+        "x": 0.8187456926257753,
+        "y": 0.38888712711636664,
+        "w": 0.09441764300482426,
+        "h": 0.09024079548508457
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 121.5324,
+      "end": 122.357
+    },
+    {
+      "id": "bar-90",
+      "label": "Bar 90",
+      "time": 122.357,
+      "page": 2,
+      "rect": {
+        "x": 0.10441075120606479,
+        "y": 0.4603732867508734,
+        "w": 0.1481736733287388,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 122.357,
+      "end": 123.1316
+    },
+    {
+      "id": "bar-91",
+      "label": "Bar 91",
+      "time": 123.1316,
+      "page": 2,
+      "rect": {
+        "x": 0.25258442453480356,
+        "y": 0.4603732867508734,
+        "w": 0.09372846312887664,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 123.1316,
+      "end": 123.8813
+    },
+    {
+      "id": "bar-92",
+      "label": "Bar 92",
+      "time": 123.8813,
+      "page": 2,
+      "rect": {
+        "x": 0.34631288766368024,
+        "y": 0.4603732867508734,
+        "w": 0.10751206064782909,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 123.8813,
+      "end": 124.631
+    },
+    {
+      "id": "bar-93",
+      "label": "Bar 93",
+      "time": 124.631,
+      "page": 2,
+      "rect": {
+        "x": 0.4538249483115093,
+        "y": 0.4603732867508734,
+        "w": 0.10647829083390765,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 124.631,
+      "end": 125.3556
+    },
+    {
+      "id": "bar-94",
+      "label": "Bar 94",
+      "time": 125.3556,
+      "page": 2,
+      "rect": {
+        "x": 0.5603032391454169,
+        "y": 0.4603732867508734,
+        "w": 0.12991040661612682,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 125.3556,
+      "end": 126.0803
+    },
+    {
+      "id": "bar-95",
+      "label": "Bar 95",
+      "time": 126.0803,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 126.0803,
+      "end": 126.8549
+    },
+    {
+      "id": "bar-96",
+      "label": "Bar 96",
+      "time": 126.8549,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 126.8549,
+      "end": 127.6546
+    },
+    {
+      "id": "bar-97",
+      "label": "Bar 97",
+      "time": 127.6546,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 127.6546,
+      "end": 128.4042
+    },
+    {
+      "id": "bar-98",
+      "label": "Bar 98",
+      "time": 128.4042,
+      "page": 2,
+      "rect": {
+        "x": 0.10268780151619572,
+        "y": 0.5330150497178178,
+        "w": 0.19021364576154376,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 128.4042,
+      "end": 129.1539
+    },
+    {
+      "id": "bar-99",
+      "label": "Bar 99",
+      "time": 129.1539,
+      "page": 2,
+      "rect": {
+        "x": 0.2929014472777395,
+        "y": 0.5330150497178178,
+        "w": 0.12887663680220537,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 129.1539,
+      "end": 129.9036
+    },
+    {
+      "id": "bar-100",
+      "label": "Bar 100",
+      "time": 129.9036,
+      "page": 2,
+      "rect": {
+        "x": 0.4217780840799449,
+        "y": 0.5330150497178178,
+        "w": 0.22019297036526533,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 129.9036,
+      "end": 130.8281
+    },
+    {
+      "id": "bar-101",
+      "label": "Bar 101 \u00b7 general pause",
+      "time": 130.8281,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard; general pause; its length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 130.8281,
+      "end": 131.7527
+    },
+    {
+      "id": "bar-102",
+      "label": "Bar 102",
+      "time": 131.7527,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 131.7527,
+      "end": 132.7023
+    },
+    {
+      "id": "bar-103",
+      "label": "Bar 103 \u00b7 fermata",
+      "time": 132.7023,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: the reviewers measured this bar line 1.1 s later; nothing new is played on this downbeat, so the bar line cannot be heard; fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 132.7023,
+      "end": 135.9258
+    },
+    {
+      "id": "bar-104",
+      "label": "Bar 104",
+      "time": 135.9258,
+      "page": 2,
+      "rect": {
+        "x": 0.10475534114403859,
+        "y": 0.6058180596613812,
+        "w": 0.1485182632667126,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: nothing new is played on this downbeat, so the bar line cannot be heard.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 135.9258,
+      "end": 136.8254
+    },
+    {
+      "id": "bar-105",
+      "label": "Bar 105",
+      "time": 136.8254,
+      "page": 2,
+      "rect": {
+        "x": 0.2532736044107512,
+        "y": 0.6058180596613812,
+        "w": 0.12887663680220537,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 136.8254,
+      "end": 137.3752
+    },
+    {
+      "id": "bar-106",
+      "label": "Bar 106",
+      "time": 137.3752,
+      "page": 2,
+      "rect": {
+        "x": 0.3821502412129566,
+        "y": 0.6058180596613812,
+        "w": 0.13714679531357685,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 137.3752,
+      "end": 137.9249
+    },
+    {
+      "id": "bar-107",
+      "label": "Bar 107",
+      "time": 137.9249,
+      "page": 2,
+      "rect": {
+        "x": 0.5192970365265335,
+        "y": 0.6058180596613812,
+        "w": 0.1357684355616816,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 137.9249,
+      "end": 138.4747
+    },
+    {
+      "id": "bar-108",
+      "label": "Bar 108",
+      "time": 138.4747,
+      "page": 2,
+      "rect": {
+        "x": 0.655065472088215,
+        "y": 0.6058180596613812,
+        "w": 0.13163335630599587,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 138.4747,
+      "end": 139.0494
+    },
+    {
+      "id": "bar-109",
+      "label": "Bar 109 \u00b7 fermata",
+      "time": 139.0494,
+      "page": 2,
+      "rect": {
+        "x": 0.7866988283942109,
+        "y": 0.6058180596613812,
+        "w": 0.12611991729841487,
+        "h": 0.08983767804353682
+      },
+      "checked": false,
+      "note": "Full-score-assisted estimate, not checked by ear. Less sure here: fermata; the hold length is estimated.",
+      "basis": "Ravel full score (piano staves + orchestral differences) matched to the recording; chapter time only cut the movement.",
+      "start": 139.0494,
+      "end": 139.849
+    }
+  ],
+  "rests": [],
+  "barRegions": [
+    {
+      "id": "bar-box-p1-s6-b1",
+      "barStart": 1,
+      "barEndExclusive": 4,
+      "page": 1,
+      "rect": {
+        "x": 0.10908465244322092,
+        "y": 0.6844733172432287,
+        "w": 0.1730901582931865,
+        "h": 0.08970608742290165
+      },
+      "label": "Bars 1-3",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b2",
+      "barStart": 4,
+      "barEndExclusive": 7,
+      "page": 1,
+      "rect": {
+        "x": 0.28217481073640743,
+        "y": 0.6844733172432287,
+        "w": 0.10667584308327598,
+        "h": 0.08970608742290165
+      },
+      "label": "Bars 4-6",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b3",
+      "barStart": 7,
+      "barEndExclusive": 8,
+      "page": 1,
+      "rect": {
+        "x": 0.3888506538196834,
+        "y": 0.6844733172432287,
+        "w": 0.11975223675154852,
+        "h": 0.08970608742290165
+      },
+      "label": "Bar 7",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b4",
+      "barStart": 8,
+      "barEndExclusive": 9,
+      "page": 1,
+      "rect": {
+        "x": 0.508602890571232,
+        "y": 0.6844733172432287,
+        "w": 0.11114934618031659,
+        "h": 0.08970608742290165
+      },
+      "label": "Bar 8",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b5",
+      "barStart": 9,
+      "barEndExclusive": 10,
+      "page": 1,
+      "rect": {
+        "x": 0.6197522367515486,
+        "y": 0.6844733172432287,
+        "w": 0.11321403991741225,
+        "h": 0.08970608742290165
+      },
+      "label": "Bar 9",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b6",
+      "barStart": 10,
+      "barEndExclusive": 11,
+      "page": 1,
+      "rect": {
+        "x": 0.7329662766689607,
+        "y": 0.6844733172432287,
+        "w": 0.09876118375774261,
+        "h": 0.08970608742290165
+      },
+      "label": "Bar 10",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s6-b7",
+      "barStart": 11,
+      "barEndExclusive": 17,
+      "page": 1,
+      "rect": {
+        "x": 0.8317274604267034,
+        "y": 0.6844733172432287,
+        "w": 0.07673778389538885,
+        "h": 0.08970608742290165
+      },
+      "label": "Bars 11-16",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b1",
+      "barStart": 17,
+      "barEndExclusive": 18,
+      "page": 1,
+      "rect": {
+        "x": 0.11321403991741225,
+        "y": 0.7566642531509787,
+        "w": 0.1517549896765313,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 17",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b2",
+      "barStart": 18,
+      "barEndExclusive": 19,
+      "page": 1,
+      "rect": {
+        "x": 0.2649690295939436,
+        "y": 0.7566642531509787,
+        "w": 0.08706125258086717,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 18",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b3",
+      "barStart": 19,
+      "barEndExclusive": 20,
+      "page": 1,
+      "rect": {
+        "x": 0.35203028217481075,
+        "y": 0.7566642531509787,
+        "w": 0.13626978664831382,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 19",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b4",
+      "barStart": 20,
+      "barEndExclusive": 21,
+      "page": 1,
+      "rect": {
+        "x": 0.48830006882312454,
+        "y": 0.7566642531509787,
+        "w": 0.09635237439779766,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 20",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b5",
+      "barStart": 21,
+      "barEndExclusive": 22,
+      "page": 1,
+      "rect": {
+        "x": 0.5846524432209222,
+        "y": 0.7566642531509787,
+        "w": 0.11355815554026152,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 21",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b6",
+      "barStart": 22,
+      "barEndExclusive": 23,
+      "page": 1,
+      "rect": {
+        "x": 0.6982105987611837,
+        "y": 0.7566642531509787,
+        "w": 0.06641431520991053,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 22",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s7-b7",
+      "barStart": 23,
+      "barEndExclusive": 24,
+      "page": 1,
+      "rect": {
+        "x": 0.7646249139710943,
+        "y": 0.7566642531509787,
+        "w": 0.1428079834824501,
+        "h": 0.08922338428533139
+      },
+      "label": "Bar 23",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b1",
+      "barStart": 24,
+      "barEndExclusive": 25,
+      "page": 1,
+      "rect": {
+        "x": 0.11355815554026152,
+        "y": 0.8294183427192277,
+        "w": 0.15072264280798348,
+        "h": 0.08908930008045057
+      },
+      "label": "Bar 24",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b2",
+      "barStart": 25,
+      "barEndExclusive": 26,
+      "page": 1,
+      "rect": {
+        "x": 0.264280798348245,
+        "y": 0.8294183427192277,
+        "w": 0.09256710254645562,
+        "h": 0.08908930008045057
+      },
+      "label": "Bar 25",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b3",
+      "barStart": 26,
+      "barEndExclusive": 27,
+      "page": 1,
+      "rect": {
+        "x": 0.35684790089470064,
+        "y": 0.8294183427192277,
+        "w": 0.11149346180316587,
+        "h": 0.08908930008045057
+      },
+      "label": "Bar 26",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b4",
+      "barStart": 27,
+      "barEndExclusive": 28,
+      "page": 1,
+      "rect": {
+        "x": 0.46834136269786647,
+        "y": 0.8294183427192277,
+        "w": 0.11906400550584996,
+        "h": 0.08908930008045057
+      },
+      "label": "Bar 27",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b5",
+      "barStart": 28,
+      "barEndExclusive": 29,
+      "page": 1,
+      "rect": {
+        "x": 0.5874053682037165,
+        "y": 0.8294183427192277,
+        "w": 0.12078458362009635,
+        "h": 0.08908930008045057
+      },
+      "label": "Bar 28",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p1-s8-b6",
+      "barStart": 29,
+      "barEndExclusive": 33,
+      "page": 1,
+      "rect": {
+        "x": 0.7081899518238128,
+        "y": 0.8294183427192277,
+        "w": 0.19993117687543013,
+        "h": 0.08908930008045057
+      },
+      "label": "Bars 29-32",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b1",
+      "barStart": 33,
+      "barEndExclusive": 34,
+      "page": 2,
+      "rect": {
+        "x": 0.10027567195037905,
+        "y": 0.10025503896801935,
+        "w": 0.15541006202618884,
+        "h": 0.0894883095941951
+      },
+      "label": "Bar 33",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b2",
+      "barStart": 34,
+      "barEndExclusive": 35,
+      "page": 2,
+      "rect": {
+        "x": 0.2556857339765679,
+        "y": 0.10025503896801935,
+        "w": 0.11853893866299105,
+        "h": 0.0894883095941951
+      },
+      "label": "Bar 34",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b3",
+      "barStart": 35,
+      "barEndExclusive": 36,
+      "page": 2,
+      "rect": {
+        "x": 0.37422467263955894,
+        "y": 0.10025503896801935,
+        "w": 0.11095796002756719,
+        "h": 0.0894883095941951
+      },
+      "label": "Bar 35",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b4",
+      "barStart": 36,
+      "barEndExclusive": 38,
+      "page": 2,
+      "rect": {
+        "x": 0.48518263266712613,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "label": "Bars 36-37",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b5",
+      "barStart": 38,
+      "barEndExclusive": 39,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.10025503896801935,
+        "w": 0.10613370089593384,
+        "h": 0.0894883095941951
+      },
+      "label": "Bar 38",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b6",
+      "barStart": 39,
+      "barEndExclusive": 41,
+      "page": 2,
+      "rect": {
+        "x": 0.6991729841488629,
+        "y": 0.10025503896801935,
+        "w": 0.10785665058580289,
+        "h": 0.0894883095941951
+      },
+      "label": "Bars 39-40",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s1-b7",
+      "barStart": 41,
+      "barEndExclusive": 42,
+      "page": 2,
+      "rect": {
+        "x": 0.8070296347346657,
+        "y": 0.10025503896801935,
+        "w": 0.1050999310820124,
+        "h": 0.0894883095941951
+      },
+      "label": "Bar 41",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b1",
+      "barStart": 42,
+      "barEndExclusive": 47,
+      "page": 2,
+      "rect": {
+        "x": 0.1019986216402481,
+        "y": 0.17316554689599573,
+        "w": 0.15299793246037216,
+        "h": 0.08991830153184627
+      },
+      "label": "Bars 42-46",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b2",
+      "barStart": 47,
+      "barEndExclusive": 48,
+      "page": 2,
+      "rect": {
+        "x": 0.2549965541006203,
+        "y": 0.17316554689599573,
+        "w": 0.11371467953135768,
+        "h": 0.08991830153184627
+      },
+      "label": "Bar 47",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b3",
+      "barStart": 48,
+      "barEndExclusive": 55,
+      "page": 2,
+      "rect": {
+        "x": 0.36871123363197794,
+        "y": 0.17316554689599573,
+        "w": 0.11750516884906961,
+        "h": 0.08991830153184627
+      },
+      "label": "Bars 48-54",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b4",
+      "barStart": 55,
+      "barEndExclusive": 56,
+      "page": 2,
+      "rect": {
+        "x": 0.4862164024810475,
+        "y": 0.17316554689599573,
+        "w": 0.11819434872501723,
+        "h": 0.08991830153184627
+      },
+      "label": "Bar 55",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b5",
+      "barStart": 56,
+      "barEndExclusive": 57,
+      "page": 2,
+      "rect": {
+        "x": 0.6044107512060648,
+        "y": 0.17316554689599573,
+        "w": 0.09682977257064093,
+        "h": 0.08991830153184627
+      },
+      "label": "Bar 56",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b6",
+      "barStart": 57,
+      "barEndExclusive": 61,
+      "page": 2,
+      "rect": {
+        "x": 0.7012405237767058,
+        "y": 0.17316554689599573,
+        "w": 0.10337698139214335,
+        "h": 0.08991830153184627
+      },
+      "label": "Bars 57-60",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s2-b7",
+      "barStart": 61,
+      "barEndExclusive": 62,
+      "page": 2,
+      "rect": {
+        "x": 0.8046175051688491,
+        "y": 0.17316554689599573,
+        "w": 0.10751206064782909,
+        "h": 0.08991830153184627
+      },
+      "label": "Bar 61",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b1",
+      "barStart": 62,
+      "barEndExclusive": 63,
+      "page": 2,
+      "rect": {
+        "x": 0.10578911095796002,
+        "y": 0.2454848159097017,
+        "w": 0.1206064782908339,
+        "h": 0.08983767804353673
+      },
+      "label": "Bar 62",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b2",
+      "barStart": 63,
+      "barEndExclusive": 64,
+      "page": 2,
+      "rect": {
+        "x": 0.22639558924879394,
+        "y": 0.2454848159097017,
+        "w": 0.11888352860096485,
+        "h": 0.08983767804353673
+      },
+      "label": "Bar 63",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b3",
+      "barStart": 64,
+      "barEndExclusive": 65,
+      "page": 2,
+      "rect": {
+        "x": 0.3452791178497588,
+        "y": 0.2454848159097017,
+        "w": 0.14955203308063406,
+        "h": 0.08983767804353673
+      },
+      "label": "Bar 64",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b4",
+      "barStart": 65,
+      "barEndExclusive": 66,
+      "page": 2,
+      "rect": {
+        "x": 0.4948311509303928,
+        "y": 0.2454848159097017,
+        "w": 0.09820813232253618,
+        "h": 0.08983767804353673
+      },
+      "label": "Bar 65",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b5",
+      "barStart": 66,
+      "barEndExclusive": 68,
+      "page": 2,
+      "rect": {
+        "x": 0.593039283252929,
+        "y": 0.2454848159097017,
+        "w": 0.10234321157822192,
+        "h": 0.08983767804353673
+      },
+      "label": "Bars 66-67",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s3-b6",
+      "barStart": 68,
+      "barEndExclusive": 69,
+      "page": 2,
+      "rect": {
+        "x": 0.6953824948311509,
+        "y": 0.2454848159097017,
+        "w": 0.21778084079944865,
+        "h": 0.08983767804353673
+      },
+      "label": "Bar 68",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b1",
+      "barStart": 69,
+      "barEndExclusive": 70,
+      "page": 2,
+      "rect": {
+        "x": 0.11026878015161957,
+        "y": 0.31713222252082773,
+        "w": 0.13059958649207443,
+        "h": 0.0901332975006719
+      },
+      "label": "Bar 69",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b2",
+      "barStart": 70,
+      "barEndExclusive": 76,
+      "page": 2,
+      "rect": {
+        "x": 0.24086836664369402,
+        "y": 0.31713222252082773,
+        "w": 0.09924190213645762,
+        "h": 0.0901332975006719
+      },
+      "label": "Bars 70-75",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b3",
+      "barStart": 76,
+      "barEndExclusive": 77,
+      "page": 2,
+      "rect": {
+        "x": 0.3401102687801516,
+        "y": 0.31713222252082773,
+        "w": 0.1416264645072364,
+        "h": 0.0901332975006719
+      },
+      "label": "Bar 76",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b4",
+      "barStart": 77,
+      "barEndExclusive": 78,
+      "page": 2,
+      "rect": {
+        "x": 0.48173673328738803,
+        "y": 0.31713222252082773,
+        "w": 0.16747070985527224,
+        "h": 0.0901332975006719
+      },
+      "label": "Bar 77",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b5",
+      "barStart": 78,
+      "barEndExclusive": 79,
+      "page": 2,
+      "rect": {
+        "x": 0.6492074431426602,
+        "y": 0.31713222252082773,
+        "w": 0.142315644383184,
+        "h": 0.0901332975006719
+      },
+      "label": "Bar 78",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s4-b6",
+      "barStart": 79,
+      "barEndExclusive": 80,
+      "page": 2,
+      "rect": {
+        "x": 0.7915230875258442,
+        "y": 0.31713222252082773,
+        "w": 0.1206064782908339,
+        "h": 0.0901332975006719
+      },
+      "label": "Bar 79",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b1",
+      "barStart": 80,
+      "barEndExclusive": 81,
+      "page": 2,
+      "rect": {
+        "x": 0.10337698139214335,
+        "y": 0.38888712711636664,
+        "w": 0.17711922811853895,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 80",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b2",
+      "barStart": 81,
+      "barEndExclusive": 82,
+      "page": 2,
+      "rect": {
+        "x": 0.28049620951068227,
+        "y": 0.38888712711636664,
+        "w": 0.13197794624396966,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 81",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b3",
+      "barStart": 82,
+      "barEndExclusive": 86,
+      "page": 2,
+      "rect": {
+        "x": 0.41247415575465196,
+        "y": 0.38888712711636664,
+        "w": 0.09614059269469331,
+        "h": 0.09024079548508457
+      },
+      "label": "Bars 82-85",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b4",
+      "barStart": 86,
+      "barEndExclusive": 87,
+      "page": 2,
+      "rect": {
+        "x": 0.5086147484493453,
+        "y": 0.38888712711636664,
+        "w": 0.11026878015161957,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 86",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b5",
+      "barStart": 87,
+      "barEndExclusive": 88,
+      "page": 2,
+      "rect": {
+        "x": 0.6188835286009648,
+        "y": 0.38888712711636664,
+        "w": 0.10578911095796002,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 87",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b6",
+      "barStart": 88,
+      "barEndExclusive": 89,
+      "page": 2,
+      "rect": {
+        "x": 0.7246726395589249,
+        "y": 0.38888712711636664,
+        "w": 0.09407305306685045,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 88",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s5-b7",
+      "barStart": 89,
+      "barEndExclusive": 90,
+      "page": 2,
+      "rect": {
+        "x": 0.8187456926257753,
+        "y": 0.38888712711636664,
+        "w": 0.09441764300482426,
+        "h": 0.09024079548508457
+      },
+      "label": "Bar 89",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b1",
+      "barStart": 90,
+      "barEndExclusive": 91,
+      "page": 2,
+      "rect": {
+        "x": 0.10441075120606479,
+        "y": 0.4603732867508734,
+        "w": 0.1481736733287388,
+        "h": 0.08986455253963999
+      },
+      "label": "Bar 90",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b2",
+      "barStart": 91,
+      "barEndExclusive": 92,
+      "page": 2,
+      "rect": {
+        "x": 0.25258442453480356,
+        "y": 0.4603732867508734,
+        "w": 0.09372846312887664,
+        "h": 0.08986455253963999
+      },
+      "label": "Bar 91",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b3",
+      "barStart": 92,
+      "barEndExclusive": 93,
+      "page": 2,
+      "rect": {
+        "x": 0.34631288766368024,
+        "y": 0.4603732867508734,
+        "w": 0.10751206064782909,
+        "h": 0.08986455253963999
+      },
+      "label": "Bar 92",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b4",
+      "barStart": 93,
+      "barEndExclusive": 94,
+      "page": 2,
+      "rect": {
+        "x": 0.4538249483115093,
+        "y": 0.4603732867508734,
+        "w": 0.10647829083390765,
+        "h": 0.08986455253963999
+      },
+      "label": "Bar 93",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b5",
+      "barStart": 94,
+      "barEndExclusive": 95,
+      "page": 2,
+      "rect": {
+        "x": 0.5603032391454169,
+        "y": 0.4603732867508734,
+        "w": 0.12991040661612682,
+        "h": 0.08986455253963999
+      },
+      "label": "Bar 94",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s6-b6",
+      "barStart": 95,
+      "barEndExclusive": 98,
+      "page": 2,
+      "rect": {
+        "x": 0.6902136457615438,
+        "y": 0.4603732867508734,
+        "w": 0.22329427980702962,
+        "h": 0.08986455253963999
+      },
+      "label": "Bars 95-97",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s7-b1",
+      "barStart": 98,
+      "barEndExclusive": 99,
+      "page": 2,
+      "rect": {
+        "x": 0.10268780151619572,
+        "y": 0.5330150497178178,
+        "w": 0.19021364576154376,
+        "h": 0.08997205052405277
+      },
+      "label": "Bar 98",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s7-b2",
+      "barStart": 99,
+      "barEndExclusive": 100,
+      "page": 2,
+      "rect": {
+        "x": 0.2929014472777395,
+        "y": 0.5330150497178178,
+        "w": 0.12887663680220537,
+        "h": 0.08997205052405277
+      },
+      "label": "Bar 99",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s7-b3",
+      "barStart": 100,
+      "barEndExclusive": 101,
+      "page": 2,
+      "rect": {
+        "x": 0.4217780840799449,
+        "y": 0.5330150497178178,
+        "w": 0.22019297036526533,
+        "h": 0.08997205052405277
+      },
+      "label": "Bar 100",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s7-b4",
+      "barStart": 101,
+      "barEndExclusive": 104,
+      "page": 2,
+      "rect": {
+        "x": 0.6419710544452102,
+        "y": 0.5330150497178178,
+        "w": 0.2705031013094418,
+        "h": 0.08997205052405277
+      },
+      "label": "Bars 101-103",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b1",
+      "barStart": 104,
+      "barEndExclusive": 105,
+      "page": 2,
+      "rect": {
+        "x": 0.10475534114403859,
+        "y": 0.6058180596613812,
+        "w": 0.1485182632667126,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 104",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b2",
+      "barStart": 105,
+      "barEndExclusive": 106,
+      "page": 2,
+      "rect": {
+        "x": 0.2532736044107512,
+        "y": 0.6058180596613812,
+        "w": 0.12887663680220537,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 105",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b3",
+      "barStart": 106,
+      "barEndExclusive": 107,
+      "page": 2,
+      "rect": {
+        "x": 0.3821502412129566,
+        "y": 0.6058180596613812,
+        "w": 0.13714679531357685,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 106",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b4",
+      "barStart": 107,
+      "barEndExclusive": 108,
+      "page": 2,
+      "rect": {
+        "x": 0.5192970365265335,
+        "y": 0.6058180596613812,
+        "w": 0.1357684355616816,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 107",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b5",
+      "barStart": 108,
+      "barEndExclusive": 109,
+      "page": 2,
+      "rect": {
+        "x": 0.655065472088215,
+        "y": 0.6058180596613812,
+        "w": 0.13163335630599587,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 108",
+      "checked": false
+    },
+    {
+      "id": "bar-box-p2-s8-b6",
+      "barStart": 109,
+      "barEndExclusive": 110,
+      "page": 2,
+      "rect": {
+        "x": 0.7866988283942109,
+        "y": 0.6058180596613812,
+        "w": 0.12611991729841487,
+        "h": 0.08983767804353682
+      },
+      "label": "Bar 109",
+      "checked": false
+    }
+  ],
+  "rhythm": {
+    "accuracy": "unapproved; holds and general pauses are estimated",
+    "bars": [
+      {
+        "bar": 1,
+        "time": 0.7622,
+        "end": 1.5618,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          0.7622,
+          0.8954,
+          1.0287,
+          1.162,
+          1.2952,
+          1.4285
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "the reviewers measured this bar line 0.3 s later"
+        ]
+      },
+      {
+        "bar": 2,
+        "time": 1.5618,
+        "end": 2.3614,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          1.5618,
+          1.6951,
+          1.8283,
+          1.9616,
+          2.0949,
+          2.2282
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 3,
+        "time": 2.3614,
+        "end": 3.1361,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          2.3614,
+          2.4905,
+          2.6196,
+          2.7488,
+          2.8779,
+          3.007
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 4,
+        "time": 3.1361,
+        "end": 3.8108,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          3.1361,
+          3.2485,
+          3.361,
+          3.4734,
+          3.5859,
+          3.6983
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 5,
+        "time": 3.8108,
+        "end": 4.5105,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          3.8108,
+          3.9274,
+          4.044,
+          4.1606,
+          4.2772,
+          4.3938
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 6,
+        "time": 4.5105,
+        "end": 5.2351,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          4.5105,
+          4.6312,
+          4.752,
+          4.8728,
+          4.9936,
+          5.1143
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 7,
+        "time": 5.2351,
+        "end": 5.9848,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          5.2351,
+          5.3601,
+          5.485,
+          5.61,
+          5.7349,
+          5.8598
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 8,
+        "time": 5.9848,
+        "end": 6.7844,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          5.9848,
+          6.1181,
+          6.2513,
+          6.3846,
+          6.5179,
+          6.6511
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 9,
+        "time": 6.7844,
+        "end": 7.609,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          6.7844,
+          6.9219,
+          7.0593,
+          7.1967,
+          7.3342,
+          7.4716
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 10,
+        "time": 7.609,
+        "end": 8.8835,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          7.609,
+          7.7465,
+          7.8839,
+          8.0214,
+          8.1588,
+          8.5211
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 11,
+        "time": 8.8835,
+        "end": 9.6831,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          8.8835,
+          9.0167,
+          9.15,
+          9.2833,
+          9.4166,
+          9.5498
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 12,
+        "time": 9.6831,
+        "end": 10.4578,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          9.6831,
+          9.8122,
+          9.9413,
+          10.0704,
+          10.1995,
+          10.3286
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 13,
+        "time": 10.4578,
+        "end": 11.2074,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          10.4578,
+          10.5827,
+          10.7076,
+          10.8326,
+          10.9575,
+          11.0825
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 14,
+        "time": 11.2074,
+        "end": 11.9821,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          11.2074,
+          11.3365,
+          11.4656,
+          11.5947,
+          11.7238,
+          11.853
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 15,
+        "time": 11.9821,
+        "end": 12.8067,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          11.9821,
+          12.1195,
+          12.2569,
+          12.3944,
+          12.5318,
+          12.6693
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 16,
+        "time": 12.8067,
+        "end": 13.6813,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          12.8067,
+          12.9525,
+          13.0982,
+          13.244,
+          13.3898,
+          13.5355
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 17,
+        "time": 13.6813,
+        "end": 14.5559,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          13.6813,
+          13.8271,
+          13.9728,
+          14.1186,
+          14.2644,
+          14.4101
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "the reviewers measured this bar line 0.5 s earlier"
+        ]
+      },
+      {
+        "bar": 18,
+        "time": 14.5559,
+        "end": 15.4555,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          14.5559,
+          14.7058,
+          14.8558,
+          15.0057,
+          15.1556,
+          15.3056
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "the reviewers measured this bar line 0.6 s earlier",
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "general pause; its length is estimated"
+        ]
+      },
+      {
+        "bar": 19,
+        "time": 15.4555,
+        "end": 16.3301,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          15.4555,
+          15.6013,
+          15.747,
+          15.8928,
+          16.0386,
+          16.1843
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 20,
+        "time": 16.3301,
+        "end": 17.1547,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          16.3301,
+          16.4675,
+          16.605,
+          16.7424,
+          16.8798,
+          17.0173
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 21,
+        "time": 17.1547,
+        "end": 17.9793,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          17.1547,
+          17.2922,
+          17.4296,
+          17.567,
+          17.7045,
+          17.8419
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 22,
+        "time": 17.9793,
+        "end": 18.779,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          17.9793,
+          18.1126,
+          18.2459,
+          18.3792,
+          18.5124,
+          18.6457
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 23,
+        "time": 18.779,
+        "end": 19.5786,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          18.779,
+          18.9123,
+          19.0455,
+          19.1788,
+          19.3121,
+          19.4453
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 24,
+        "time": 19.5786,
+        "end": 20.3533,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          19.5786,
+          19.7077,
+          19.8368,
+          19.9659,
+          20.095,
+          20.2242
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 25,
+        "time": 20.3533,
+        "end": 21.1279,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          20.3533,
+          20.4824,
+          20.6115,
+          20.7406,
+          20.8697,
+          20.9988
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 26,
+        "time": 21.1279,
+        "end": 21.9026,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          21.1279,
+          21.257,
+          21.3861,
+          21.5152,
+          21.6443,
+          21.7735
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 27,
+        "time": 21.9026,
+        "end": 22.7022,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          21.9026,
+          22.0358,
+          22.1691,
+          22.3024,
+          22.4357,
+          22.5689
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 28,
+        "time": 22.7022,
+        "end": 24.2015,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          22.7022,
+          22.9521,
+          23.202,
+          23.4519,
+          23.7017,
+          23.9516
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "general pause; its length is estimated"
+        ]
+      },
+      {
+        "bar": 29,
+        "time": 24.2015,
+        "end": 25.0012,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          24.2015,
+          24.3348,
+          24.4681,
+          24.6013,
+          24.7346,
+          24.8679
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 30,
+        "time": 25.0012,
+        "end": 25.8258,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          25.0012,
+          25.1386,
+          25.276,
+          25.4135,
+          25.5509,
+          25.6883
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 31,
+        "time": 25.8258,
+        "end": 26.6504,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          25.8258,
+          25.9632,
+          26.1007,
+          26.2381,
+          26.3755,
+          26.513
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 32,
+        "time": 26.6504,
+        "end": 27.45,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          26.6504,
+          26.7837,
+          26.917,
+          27.0502,
+          27.1835,
+          27.3168
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 33,
+        "time": 27.45,
+        "end": 28.2497,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          27.45,
+          27.5833,
+          27.7166,
+          27.8499,
+          27.9831,
+          28.1164
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 34,
+        "time": 28.2497,
+        "end": 29.0243,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          28.2497,
+          28.3788,
+          28.5079,
+          28.637,
+          28.7661,
+          28.8952
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 35,
+        "time": 29.0243,
+        "end": 29.824,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          29.0243,
+          29.1576,
+          29.2909,
+          29.4241,
+          29.5574,
+          29.6907
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 36,
+        "time": 29.824,
+        "end": 30.5986,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          29.824,
+          29.9531,
+          30.0822,
+          30.2113,
+          30.3404,
+          30.4695
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 37,
+        "time": 30.5986,
+        "end": 31.3483,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          30.5986,
+          30.7236,
+          30.8485,
+          30.9734,
+          31.0984,
+          31.2233
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 38,
+        "time": 31.3483,
+        "end": 32.7227,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          31.3483,
+          31.5773,
+          31.8064,
+          32.0355,
+          32.2645,
+          32.4936
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "general pause; its length is estimated"
+        ]
+      },
+      {
+        "bar": 39,
+        "time": 32.7227,
+        "end": 33.4473,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          32.7227,
+          32.8434,
+          32.9642,
+          33.085,
+          33.2058,
+          33.3265
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 40,
+        "time": 33.4473,
+        "end": 34.172,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          33.4473,
+          33.5681,
+          33.6889,
+          33.8097,
+          33.9304,
+          34.0512
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 41,
+        "time": 34.172,
+        "end": 35.2465,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          34.172,
+          34.3511,
+          34.5302,
+          34.7093,
+          34.8883,
+          35.0674
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "general pause; its length is estimated"
+        ]
+      },
+      {
+        "bar": 42,
+        "time": 35.2465,
+        "end": 35.9712,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          35.2465,
+          35.3673,
+          35.4881,
+          35.6088,
+          35.7296,
+          35.8504
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 43,
+        "time": 35.9712,
+        "end": 36.6959,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          35.9712,
+          36.092,
+          36.2127,
+          36.3335,
+          36.4543,
+          36.5751
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 44,
+        "time": 36.6959,
+        "end": 37.4205,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          36.6959,
+          36.8166,
+          36.9374,
+          37.0582,
+          37.179,
+          37.2997
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 45,
+        "time": 37.4205,
+        "end": 38.1702,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          37.4205,
+          37.5455,
+          37.6704,
+          37.7954,
+          37.9203,
+          38.0452
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 46,
+        "time": 38.1702,
+        "end": 41.2688,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          38.1702,
+          38.3014,
+          38.4326,
+          38.5638,
+          38.6949,
+          39.9819
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 47,
+        "time": 41.2688,
+        "end": 42.0684,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          41.2688,
+          41.4,
+          41.5312,
+          41.6623,
+          41.7935,
+          41.931
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "the reviewers measured this bar line 1.4 s earlier",
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 48,
+        "time": 42.0684,
+        "end": 44.4423,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          42.0684,
+          42.3652,
+          42.6619,
+          42.9586,
+          43.2554,
+          43.5521,
+          43.8489,
+          44.1456
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 49,
+        "time": 44.4423,
+        "end": 46.8912,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          44.4423,
+          44.7484,
+          45.0546,
+          45.3607,
+          45.6668,
+          45.9729,
+          46.279,
+          46.5851
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 50,
+        "time": 46.8912,
+        "end": 49.3401,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          46.8912,
+          47.1973,
+          47.5034,
+          47.8096,
+          48.1157,
+          48.4218,
+          48.7279,
+          49.034
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 51,
+        "time": 49.3401,
+        "end": 51.789,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          49.3401,
+          49.6462,
+          49.9523,
+          50.2584,
+          50.5646,
+          50.8707,
+          51.1768,
+          51.4829
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 52,
+        "time": 51.789,
+        "end": 54.2129,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          51.789,
+          52.092,
+          52.395,
+          52.698,
+          53.001,
+          53.3039,
+          53.6069,
+          53.9099
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 53,
+        "time": 54.2129,
+        "end": 56.6368,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          54.2129,
+          54.5159,
+          54.8189,
+          55.1219,
+          55.4249,
+          55.7278,
+          56.0308,
+          56.3338
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 54,
+        "time": 56.6368,
+        "end": 59.0107,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          56.6368,
+          56.9335,
+          57.2303,
+          57.527,
+          57.8238,
+          58.1205,
+          58.4172,
+          58.714
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 55,
+        "time": 59.0107,
+        "end": 59.8853,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          59.0107,
+          59.1565,
+          59.3023,
+          59.448,
+          59.5938,
+          59.7396
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 56,
+        "time": 59.8853,
+        "end": 61.6845,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          59.8853,
+          60.0415,
+          60.1977,
+          60.3539,
+          60.51,
+          61.0973
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 57,
+        "time": 61.6845,
+        "end": 64.1084,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          61.6845,
+          61.9875,
+          62.2905,
+          62.5935,
+          62.8965,
+          63.1995,
+          63.5024,
+          63.8054
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 58,
+        "time": 64.1084,
+        "end": 66.5573,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          64.1084,
+          64.4145,
+          64.7206,
+          65.0267,
+          65.3329,
+          65.639,
+          65.9451,
+          66.2512
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 59,
+        "time": 66.5573,
+        "end": 69.0562,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          66.5573,
+          66.8697,
+          67.182,
+          67.4944,
+          67.8067,
+          68.1191,
+          68.4315,
+          68.7438
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 60,
+        "time": 69.0562,
+        "end": 71.555,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          69.0562,
+          69.3685,
+          69.6809,
+          69.9932,
+          70.3056,
+          70.618,
+          70.9303,
+          71.2427
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 61,
+        "time": 71.555,
+        "end": 73.929,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          71.555,
+          71.8518,
+          72.1485,
+          72.4453,
+          72.742,
+          73.0387,
+          73.3355,
+          73.6322
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 62,
+        "time": 73.929,
+        "end": 76.2529,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          73.929,
+          74.2195,
+          74.5099,
+          74.8004,
+          75.0909,
+          75.3814,
+          75.6719,
+          75.9624
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 63,
+        "time": 76.2529,
+        "end": 78.4769,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          76.2529,
+          76.5309,
+          76.8089,
+          77.0869,
+          77.3649,
+          77.6429,
+          77.9209,
+          78.1989
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 64,
+        "time": 78.4769,
+        "end": 79.3515,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          78.4769,
+          78.6227,
+          78.7684,
+          78.9142,
+          79.06,
+          79.2057
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 65,
+        "time": 79.3515,
+        "end": 81.3756,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          79.3515,
+          79.5077,
+          79.6639,
+          79.82,
+          79.9762,
+          80.6759
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 66,
+        "time": 81.3756,
+        "end": 83.7995,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          81.3756,
+          81.6786,
+          81.9816,
+          82.2845,
+          82.5875,
+          82.8905,
+          83.1935,
+          83.4965
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 67,
+        "time": 83.7995,
+        "end": 86.1234,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          83.7995,
+          84.09,
+          84.3805,
+          84.671,
+          84.9615,
+          85.2519,
+          85.5424,
+          85.8329
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 68,
+        "time": 86.1234,
+        "end": 86.998,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          86.1234,
+          86.2692,
+          86.415,
+          86.5607,
+          86.7065,
+          86.8523
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 69,
+        "time": 86.998,
+        "end": 88.4224,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          86.998,
+          87.1542,
+          87.3104,
+          87.4666,
+          87.6227,
+          88.0226
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 70,
+        "time": 88.4224,
+        "end": 90.6963,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          88.4224,
+          88.7066,
+          88.9909,
+          89.2751,
+          89.5594,
+          89.8436,
+          90.1279,
+          90.4121
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 71,
+        "time": 90.6963,
+        "end": 92.8704,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          90.6963,
+          90.9681,
+          91.2399,
+          91.5116,
+          91.7834,
+          92.0551,
+          92.3269,
+          92.5986
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 72,
+        "time": 92.8704,
+        "end": 95.0194,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          92.8704,
+          93.139,
+          93.4076,
+          93.6762,
+          93.9449,
+          94.2135,
+          94.4821,
+          94.7508
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 73,
+        "time": 95.0194,
+        "end": 97.1684,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          95.0194,
+          95.288,
+          95.5566,
+          95.8253,
+          96.0939,
+          96.3625,
+          96.6312,
+          96.8998
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 74,
+        "time": 97.1684,
+        "end": 99.3174,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          97.1684,
+          97.437,
+          97.7057,
+          97.9743,
+          98.2429,
+          98.5116,
+          98.7802,
+          99.0488
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 75,
+        "time": 99.3174,
+        "end": 101.4915,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          99.3174,
+          99.5892,
+          99.8609,
+          100.1327,
+          100.4044,
+          100.6762,
+          100.9479,
+          101.2197
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 76,
+        "time": 101.4915,
+        "end": 103.7654,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          101.4915,
+          101.7757,
+          102.0599,
+          102.3442,
+          102.6284,
+          102.9127,
+          103.1969,
+          103.4812
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 77,
+        "time": 103.7654,
+        "end": 105.9894,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          103.7654,
+          104.0434,
+          104.3214,
+          104.5994,
+          104.8774,
+          105.1554,
+          105.4334,
+          105.7114
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 78,
+        "time": 105.9894,
+        "end": 108.1384,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          105.9894,
+          106.258,
+          106.5267,
+          106.7953,
+          107.0639,
+          107.3326,
+          107.6012,
+          107.8698
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 79,
+        "time": 108.1384,
+        "end": 110.2375,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          108.1384,
+          108.4008,
+          108.6632,
+          108.9256,
+          109.188,
+          109.4503,
+          109.7127,
+          109.9751
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 80,
+        "time": 110.2375,
+        "end": 112.4115,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          110.2375,
+          110.5092,
+          110.781,
+          111.0527,
+          111.3245,
+          111.5962,
+          111.868,
+          112.1397
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 81,
+        "time": 112.4115,
+        "end": 114.7854,
+        "meter": "4/4",
+        "eighths": 8,
+        "beats": [
+          112.4115,
+          112.7082,
+          113.005,
+          113.3017,
+          113.5985,
+          113.8952,
+          114.1919,
+          114.4887
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 82,
+        "time": 114.7854,
+        "end": 115.9099,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          114.7854,
+          114.9728,
+          115.1602,
+          115.3477,
+          115.5351,
+          115.7225
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 83,
+        "time": 115.9099,
+        "end": 117.0094,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          115.9099,
+          116.0932,
+          116.2764,
+          116.4597,
+          116.6429,
+          116.8262
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 84,
+        "time": 117.0094,
+        "end": 118.0339,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          117.0094,
+          117.1802,
+          117.3509,
+          117.5217,
+          117.6924,
+          117.8632
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 85,
+        "time": 118.0339,
+        "end": 118.9835,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          118.0339,
+          118.1922,
+          118.3505,
+          118.5087,
+          118.667,
+          118.8253
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 86,
+        "time": 118.9835,
+        "end": 119.8581,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          118.9835,
+          119.1293,
+          119.275,
+          119.4208,
+          119.5666,
+          119.7124
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 87,
+        "time": 119.8581,
+        "end": 120.6827,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          119.8581,
+          119.9956,
+          120.133,
+          120.2704,
+          120.4079,
+          120.5453
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 88,
+        "time": 120.6827,
+        "end": 121.5324,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          120.6827,
+          120.8243,
+          120.9659,
+          121.1076,
+          121.2492,
+          121.3908
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 89,
+        "time": 121.5324,
+        "end": 122.357,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          121.5324,
+          121.6698,
+          121.8072,
+          121.9447,
+          122.0821,
+          122.2195
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 90,
+        "time": 122.357,
+        "end": 123.1316,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          122.357,
+          122.4861,
+          122.6152,
+          122.7443,
+          122.8734,
+          123.0025
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 91,
+        "time": 123.1316,
+        "end": 123.8813,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          123.1316,
+          123.2566,
+          123.3815,
+          123.5065,
+          123.6314,
+          123.7563
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 92,
+        "time": 123.8813,
+        "end": 124.631,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          123.8813,
+          124.0062,
+          124.1312,
+          124.2561,
+          124.3811,
+          124.506
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 93,
+        "time": 124.631,
+        "end": 125.3556,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          124.631,
+          124.7517,
+          124.8725,
+          124.9933,
+          125.1141,
+          125.2348
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 94,
+        "time": 125.3556,
+        "end": 126.0803,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          125.3556,
+          125.4764,
+          125.5972,
+          125.718,
+          125.8387,
+          125.9595
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 95,
+        "time": 126.0803,
+        "end": 126.8549,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          126.0803,
+          126.2094,
+          126.3385,
+          126.4676,
+          126.5967,
+          126.7258
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 96,
+        "time": 126.8549,
+        "end": 127.6546,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          126.8549,
+          126.9882,
+          127.1215,
+          127.2548,
+          127.388,
+          127.5213
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 97,
+        "time": 127.6546,
+        "end": 128.4042,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          127.6546,
+          127.7795,
+          127.9045,
+          128.0294,
+          128.1544,
+          128.2793
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 98,
+        "time": 128.4042,
+        "end": 129.1539,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          128.4042,
+          128.5292,
+          128.6541,
+          128.7791,
+          128.904,
+          129.029
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 99,
+        "time": 129.1539,
+        "end": 129.9036,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          129.1539,
+          129.2788,
+          129.4038,
+          129.5287,
+          129.6537,
+          129.7786
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 100,
+        "time": 129.9036,
+        "end": 130.8281,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          129.9036,
+          130.0577,
+          130.2118,
+          130.3659,
+          130.5199,
+          130.674
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 101,
+        "time": 130.8281,
+        "end": 131.7527,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          130.8281,
+          130.9822,
+          131.1363,
+          131.2904,
+          131.4445,
+          131.5986
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "general pause; its length is estimated"
+        ]
+      },
+      {
+        "bar": 102,
+        "time": 131.7527,
+        "end": 132.7023,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          131.7527,
+          131.911,
+          132.0692,
+          132.2275,
+          132.3858,
+          132.544
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 103,
+        "time": 132.7023,
+        "end": 135.9258,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          132.7023,
+          132.8585,
+          133.0146,
+          133.1708,
+          133.327,
+          134.6264
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "the reviewers measured this bar line 1.1 s later",
+          "nothing new is played on this downbeat, so the bar line cannot be heard",
+          "fermata; the hold length is estimated"
+        ]
+      },
+      {
+        "bar": 104,
+        "time": 135.9258,
+        "end": 136.8254,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          135.9258,
+          136.0758,
+          136.2257,
+          136.3756,
+          136.5256,
+          136.6755
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "nothing new is played on this downbeat, so the bar line cannot be heard"
+        ]
+      },
+      {
+        "bar": 105,
+        "time": 136.8254,
+        "end": 137.3752,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          136.8254,
+          136.917,
+          137.0087,
+          137.1003,
+          137.1919,
+          137.2835
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 106,
+        "time": 137.3752,
+        "end": 137.9249,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          137.3752,
+          137.4668,
+          137.5584,
+          137.65,
+          137.7417,
+          137.8333
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 107,
+        "time": 137.9249,
+        "end": 138.4747,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          137.9249,
+          138.0165,
+          138.1082,
+          138.1998,
+          138.2914,
+          138.383
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 108,
+        "time": 138.4747,
+        "end": 139.0494,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          138.4747,
+          138.5705,
+          138.6663,
+          138.762,
+          138.8578,
+          138.9536
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": []
+      },
+      {
+        "bar": 109,
+        "time": 139.0494,
+        "end": 139.849,
+        "meter": "3/4",
+        "eighths": 6,
+        "beats": [
+          139.0494,
+          139.1494,
+          139.2493,
+          139.3493,
+          139.4492,
+          139.6491
+        ],
+        "basis": "full-score-assisted-model-bar-proposal",
+        "timingChecked": false,
+        "doubts": [
+          "fermata; the hold length is estimated"
+        ]
+      }
+    ]
+  },
+  "modeLinks": {
+    "practice": {
+      "label": "Pictures \u00b7 ready practice together",
+      "bundle": "../practice-ready/pairing.json"
+    },
+    "trial": {
+      "label": "Promenade I \u00b7 model bars",
+      "bundle": "../promenade-1-verification/pairing.json"
+    },
+    "gnomus": {
+      "label": "Gnomus \u00b7 uncertain bar trial",
+      "bundle": "pairing.json"
+    },
+    "promenade2": {
+      "label": "Promenade II \u00b7 model bars",
+      "bundle": "../promenade-2-verification/pairing-v2.json"
+    },
+    "navigation": {
+      "label": "Pictures \u00b7 navigation only",
+      "bundle": "../player/pairing.json"
+    },
+    "baba": {
+      "label": "Liadov Baba Yaga \u00b7 video-assisted",
+      "bundle": "../../baba-yaga-blind/player/video-comparison.json"
+    }
+  }
+}

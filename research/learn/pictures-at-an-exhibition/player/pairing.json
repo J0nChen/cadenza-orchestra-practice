@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "id": "pictures-chapters-92eb0c224e4b7a57",
+  "title": "Pictures at an Exhibition \u00b7 Violin II",
+  "duration": 2041.498413,
+  "description": "Your original Violin II pages with the complete orchestra recording. Movement-level pairing only.",
+  "note": "Movement navigation only, using supplied timestamps\u2014not a model alignment. Separate bar-following views are available for Promenade I, Promenade II, and Gnomus; Gnomus is an uncertain full-score-assisted trial.",
+  "matchingMode": "user-chapter-assisted-source-part",
+  "audioUrl": "recording.mp3",
+  "partPages": [
+    {
+      "url": "../pdf/page-01.png",
+      "width": 1065,
+      "height": 1366,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-02.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-03.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-04.png",
+      "width": 1067,
+      "height": 1368,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-05.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-06.png",
+      "width": 1064,
+      "height": 1365,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-07.png",
+      "width": 1066,
+      "height": 1368,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-08.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-09.png",
+      "width": 1064,
+      "height": 1365,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-10.png",
+      "width": 1063,
+      "height": 1364,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-11.png",
+      "width": 1064,
+      "height": 1365,
+      "label": "Violin II"
+    },
+    {
+      "url": "../pdf/page-12.png",
+      "width": 1064,
+      "height": 1365,
+      "label": "Violin II"
+    }
+  ],
+  "markers": [
+    {
+      "id": "promenade-1",
+      "label": "Promenade I",
+      "time": 4.0,
+      "page": 1,
+      "rect": {
+        "x": 0.075,
+        "y": 0.15000000000000002,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "gnomus",
+      "label": "Gnomus",
+      "time": 112.0,
+      "page": 1,
+      "rect": {
+        "x": 0.075,
+        "y": 0.635,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "promenade-2",
+      "label": "Promenade II",
+      "time": 254.0,
+      "page": 2,
+      "rect": {
+        "x": 0.075,
+        "y": 0.74,
+        "w": 0.85,
+        "h": 0.16500000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "old-castle",
+      "label": "Il vecchio castello",
+      "time": 318.0,
+      "page": 3,
+      "rect": {
+        "x": 0.075,
+        "y": 0.085,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "promenade-3",
+      "label": "Promenade III",
+      "time": 600.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.09000000000000001,
+        "w": 0.85,
+        "h": 0.11499999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "tuileries",
+      "label": "Tuileries",
+      "time": 628.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.245,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "bydlo",
+      "label": "Bydlo",
+      "time": 690.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.605,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "promenade-4",
+      "label": "Promenade IV",
+      "time": 885.0,
+      "page": 5,
+      "rect": {
+        "x": 0.075,
+        "y": 0.5399999999999999,
+        "w": 0.85,
+        "h": 0.1100000000000001
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "ballet",
+      "label": "Ballet des poussins dans leurs coques",
+      "time": 924.0,
+      "page": 5,
+      "rect": {
+        "x": 0.075,
+        "y": 0.6849999999999999,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "samuel",
+      "label": "Samuel Goldenberg und Schmuyle",
+      "time": 1002.0,
+      "page": 6,
+      "rect": {
+        "x": 0.075,
+        "y": 0.625,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "limoges",
+      "label": "Limoges \u00b7 Le March\u00e9",
+      "time": 1156.0,
+      "page": 7,
+      "rect": {
+        "x": 0.075,
+        "y": 0.115,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "catacombs",
+      "label": "Catacombs \u00b7 Violin II tacet",
+      "time": 1236.0,
+      "page": 7,
+      "rect": {
+        "x": 0.075,
+        "y": 0.82,
+        "w": 0.85,
+        "h": 0.14500000000000002
+      },
+      "checked": false,
+      "note": "Violin II is silent throughout this movement. Listen to the orchestra; resume at Cum mortuis.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "cum-mortuis",
+      "label": "Cum mortuis in lingua mortua",
+      "time": 1368.0,
+      "page": 8,
+      "rect": {
+        "x": 0.075,
+        "y": 0.11,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "baba-yaga",
+      "label": "La Cabane sur des pattes de poule \u00b7 Baba-Yaga",
+      "time": 1501.0,
+      "page": 8,
+      "rect": {
+        "x": 0.075,
+        "y": 0.425,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    },
+    {
+      "id": "great-gate",
+      "label": "La grande porte de Kiev",
+      "time": 1704.0,
+      "page": 10,
+      "rect": {
+        "x": 0.075,
+        "y": 0.335,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF."
+    }
+  ],
+  "spans": [
+    {
+      "id": "promenade-1",
+      "label": "Promenade I",
+      "time": 4.0,
+      "page": 1,
+      "rect": {
+        "x": 0.075,
+        "y": 0.15000000000000002,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 4.0,
+      "end": 112.0
+    },
+    {
+      "id": "gnomus",
+      "label": "Gnomus",
+      "time": 112.0,
+      "page": 1,
+      "rect": {
+        "x": 0.075,
+        "y": 0.635,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 112.0,
+      "end": 254.0
+    },
+    {
+      "id": "promenade-2",
+      "label": "Promenade II",
+      "time": 254.0,
+      "page": 2,
+      "rect": {
+        "x": 0.075,
+        "y": 0.74,
+        "w": 0.85,
+        "h": 0.16500000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 254.0,
+      "end": 318.0
+    },
+    {
+      "id": "old-castle",
+      "label": "Il vecchio castello",
+      "time": 318.0,
+      "page": 3,
+      "rect": {
+        "x": 0.075,
+        "y": 0.085,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 318.0,
+      "end": 600.0
+    },
+    {
+      "id": "promenade-3",
+      "label": "Promenade III",
+      "time": 600.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.09000000000000001,
+        "w": 0.85,
+        "h": 0.11499999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 600.0,
+      "end": 628.0
+    },
+    {
+      "id": "tuileries",
+      "label": "Tuileries",
+      "time": 628.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.245,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 628.0,
+      "end": 690.0
+    },
+    {
+      "id": "bydlo",
+      "label": "Bydlo",
+      "time": 690.0,
+      "page": 4,
+      "rect": {
+        "x": 0.075,
+        "y": 0.605,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 690.0,
+      "end": 885.0
+    },
+    {
+      "id": "promenade-4",
+      "label": "Promenade IV",
+      "time": 885.0,
+      "page": 5,
+      "rect": {
+        "x": 0.075,
+        "y": 0.5399999999999999,
+        "w": 0.85,
+        "h": 0.1100000000000001
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 885.0,
+      "end": 924.0
+    },
+    {
+      "id": "ballet",
+      "label": "Ballet des poussins dans leurs coques",
+      "time": 924.0,
+      "page": 5,
+      "rect": {
+        "x": 0.075,
+        "y": 0.6849999999999999,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 924.0,
+      "end": 1002.0
+    },
+    {
+      "id": "samuel",
+      "label": "Samuel Goldenberg und Schmuyle",
+      "time": 1002.0,
+      "page": 6,
+      "rect": {
+        "x": 0.075,
+        "y": 0.625,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1002.0,
+      "end": 1156.0
+    },
+    {
+      "id": "limoges",
+      "label": "Limoges \u00b7 Le March\u00e9",
+      "time": 1156.0,
+      "page": 7,
+      "rect": {
+        "x": 0.075,
+        "y": 0.115,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1156.0,
+      "end": 1236.0
+    },
+    {
+      "id": "catacombs",
+      "label": "Catacombs \u00b7 Violin II tacet",
+      "time": 1236.0,
+      "page": 7,
+      "rect": {
+        "x": 0.075,
+        "y": 0.82,
+        "w": 0.85,
+        "h": 0.14500000000000002
+      },
+      "checked": false,
+      "note": "Violin II is silent throughout this movement. Listen to the orchestra; resume at Cum mortuis.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1236.0,
+      "end": 1368.0
+    },
+    {
+      "id": "cum-mortuis",
+      "label": "Cum mortuis in lingua mortua",
+      "time": 1368.0,
+      "page": 8,
+      "rect": {
+        "x": 0.075,
+        "y": 0.11,
+        "w": 0.85,
+        "h": 0.17000000000000004
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1368.0,
+      "end": 1501.0
+    },
+    {
+      "id": "baba-yaga",
+      "label": "La Cabane sur des pattes de poule \u00b7 Baba-Yaga",
+      "time": 1501.0,
+      "page": 8,
+      "rect": {
+        "x": 0.075,
+        "y": 0.425,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1501.0,
+      "end": 1704.0
+    },
+    {
+      "id": "great-gate",
+      "label": "La grande porte de Kiev",
+      "time": 1704.0,
+      "page": 10,
+      "rect": {
+        "x": 0.075,
+        "y": 0.335,
+        "w": 0.85,
+        "h": 0.16999999999999998
+      },
+      "checked": false,
+      "note": "Movement cue only; individual bars are not aligned yet.",
+      "basis": "Jon supplied the chapter time; the heading was checked on the original part PDF.",
+      "start": 1704.0,
+      "end": 2041.498413
+    }
+  ],
+  "rests": [],
+  "barRegions": [],
+  "rhythm": null,
+  "modeLinks": {
+    "practice": {
+      "label": "Pictures \u00b7 ready practice together",
+      "bundle": "../practice-ready/pairing.json"
+    },
+    "trial": {
+      "label": "Promenade I \u00b7 model bars",
+      "bundle": "../promenade-1-verification/pairing.json"
+    },
+    "gnomus": {
+      "label": "Gnomus \u00b7 uncertain bar trial",
+      "bundle": "../gnomus-codex-review/pairing.json"
+    },
+    "promenade2": {
+      "label": "Promenade II \u00b7 model bars",
+      "bundle": "../promenade-2-verification/pairing-v2.json"
+    },
+    "navigation": {
+      "label": "Pictures \u00b7 navigation only",
+      "bundle": "pairing.json"
+    },
+    "baba": {
+      "label": "Liadov Baba Yaga \u00b7 video-assisted",
+      "bundle": "../../baba-yaga-blind/player/video-comparison.json"
+    }
+  }
+}
