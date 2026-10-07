@@ -675,7 +675,7 @@
   audio.addEventListener('ended', () => { transport.ended(); updatePosition(true); });
   audio.addEventListener('error', () => { transport.pause(); setStatus('The orchestra audio could not load. Open the pairing with its original audio file available.', true); });
   document.addEventListener('keydown', event => {
-    if (event.repeat || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || /^(INPUT|TEXTAREA|SELECT|BUTTON)$/.test(event.target.tagName) || event.target.isContentEditable || !state.bundle) return;
+    if ($('music-catalog').open || event.repeat || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || /^(INPUT|TEXTAREA|SELECT|BUTTON)$/.test(event.target.tagName) || event.target.isContentEditable || !state.bundle) return;
     if (event.code === 'Space') { event.preventDefault(); transport.toggle(); }
     if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') { event.preventDefault(); seekTo(audio.currentTime + (event.code === 'ArrowLeft' ? -5 : 5)); }
   });
