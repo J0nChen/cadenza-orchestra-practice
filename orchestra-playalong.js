@@ -275,6 +275,21 @@
     return { label: 'Bar ' + position.bar + ' · ' + meter, subdivision: 'eighth ' + position.beat + '/' + position.beatsPerBar, pulse: .25 + .75 * Math.max(0, 1 - position.progress * 5) };
   }
 
+  function paintPulseReadout(elements, position, paused) {
+    const value = position || {status:'unavailable',bar:null,beat:null,beatsPerBar:null,meter:null};
+    elements.host.dataset.state = value.status;
+    elements.bar.textContent = value.bar == null ? '—' : String(value.bar);
+    elements.beat.textContent = value.beat == null ? '—' : String(value.beat);
+    elements.count.textContent = value.beatsPerBar == null || value.beat == null ? '' : '/'+value.beatsPerBar;
+    elements.meter.textContent = value.meter || '';
+    elements.status.textContent = value.status === 'hold' ? 'Hold · timing estimated' :
+      value.status === 'timing-edited' ? 'Beat guide off after timing edit' :
+      value.status === 'estimate' ? 'Approximate timing guide' : 'No beat map yet';
+    elements.light.classList.toggle('downbeat',value.beat === 1 && value.status === 'estimate');
+    elements.light.style.opacity = String(!paused && value.status === 'estimate' && Number.isFinite(value.phase)
+      ? .25+.75*Math.max(0,1-value.phase*5) : .25);
+  }
+
   function barRegionLabel(region) {
     if (!region || !Number.isInteger(region.bar) || !Number.isInteger(region.barStart) || !Number.isInteger(region.barEndExclusive)) return '';
     const count = region.barEndExclusive - region.barStart;
@@ -366,7 +381,7 @@
     return url.pathname + url.search;
   }
 
-  const api = { safeUrl, createTransport, restoreEdits, localAsset, withoutStaleSpans, badgePosition, restLabel, timingEditNotice, regionAt, rhythmDisplay, barRegionLabel, fetchPairing, methodText, modeLinksFor, paintModeLinks, scoreClickTargets, paintScoreTargets, practiceSections, musicCatalog, catalogChoices, paintMusicCatalog };
+  const api = { safeUrl, createTransport, restoreEdits, localAsset, withoutStaleSpans, badgePosition, restLabel, timingEditNotice, regionAt, rhythmDisplay, barRegionLabel, fetchPairing, methodText, modeLinksFor, paintModeLinks, scoreClickTargets, paintScoreTargets, practiceSections, musicCatalog, catalogChoices, paintMusicCatalog, paintPulseReadout };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   root.OrchestraPlayer = api;
   if (typeof document === 'undefined') return;
@@ -374,6 +389,8 @@
   const $ = id => document.getElementById(id);
   const timing = root.OrchestraTiming;
   const audio = $('audio');
+  const pulseElements = {host:$('pulse-guide'),bar:$('pulse-bar'),beat:$('pulse-beat'),count:$('pulse-count'),
+    meter:$('pulse-meter'),status:$('pulse-status'),light:$('pulse-light')};
   const state = { bundle: null, original: null, selected: 0, active: -2, activeSpan: null, key: '', edits: Object.create(null), loop: false, base: location.href, raf: 0, loadToken: 0 };
   const transport = createTransport(audio, playing => {
     $('play').textContent = playing ? 'Pause' : 'Play';
@@ -487,6 +504,11 @@
     return regionAt(state.bundle, time, marker, timing.barRegionAt);
   }
 
+  function updatePulse(time) {
+    const pulse = root.OrchestraPulse && state.pulse ? root.OrchestraPulse.readout(state.pulse,time) : null;
+    paintPulseReadout(pulseElements,pulse,audio.paused);
+  }
+
   function updatePosition(force) {
     if (!state.bundle) return;
     transport.tick();
@@ -497,12 +519,13 @@
     const region = marker ? activeRegion(time, marker) : null;
     const rhythmPosition = state.bundle.rhythm && typeof timing.rhythmAt === 'function' ? timing.rhythmAt(state.bundle.rhythm, time) : null;
     const rhythm = rhythmDisplay(rhythmPosition);
-    $('rhythm').hidden = !rhythm;
+    $('rhythm').hidden = true;
     if (rhythm) {
       if ($('bar-label').textContent !== rhythm.label) $('bar-label').textContent = rhythm.label;
       if ($('eighth-label').textContent !== rhythm.subdivision) $('eighth-label').textContent = rhythm.subdivision;
       $('bar-pulse').style.opacity = String(rhythm.pulse);
     }
+    updatePulse(time);
     const specificLabel = barRegionLabel(region);
     let note = restLabel(state.bundle.rests, time, rhythmPosition) || region && (region.note || region.rest || region.entry) || marker && (marker.note || marker.rest || marker.entry) || '';
     if (specificLabel) note = region.barEndExclusive - region.barStart > 1 ? specificLabel : region.note || marker && marker.note || '';
@@ -559,6 +582,7 @@
     }
     catch (error) { $('edit-message').textContent = error.message; return; }
     state.bundle = adjusted; state.edits = edits;
+    state.pulse = root.OrchestraPulse ? root.OrchestraPulse.prepare(state.bundle,location.href) : null;
     const saved = persist();
     buildLandmarks(); editSelection(); updateLoop(); updatePosition(true);
     const notice = timingEditNotice(state.bundle);
@@ -597,6 +621,7 @@
       if (Object.keys(edits).length) message = 'Loaded your saved timing adjustments. Export a copy to keep them.';
     } catch (_) { message = 'Ready. A saved edit did not match this pairing, so the original timing is loaded.'; }
     if (!state.edits || typeof state.edits !== 'object' || Array.isArray(state.edits)) state.edits = Object.create(null);
+    state.pulse = root.OrchestraPulse ? root.OrchestraPulse.prepare(state.bundle,location.href) : null;
     if (timingEditNotice(state.bundle)) message += ' ' + timingEditNotice(state.bundle);
     state.selected = 0; state.active = -2; state.activeSpan = null;
     $('title').textContent = bundle.title || 'Orchestra Play Along';
@@ -656,6 +681,7 @@
   $('reset').addEventListener('click', () => {
     try { localStorage.removeItem(state.key); } catch (_) {}
     state.edits = Object.create(null); state.bundle = JSON.parse(JSON.stringify(state.original));
+    state.pulse = root.OrchestraPulse ? root.OrchestraPulse.prepare(state.bundle,location.href) : null;
     buildLandmarks(); editSelection(); updateLoop(); updatePosition(true); $('edit-message').textContent = 'Your browser edits were reset to the original pairing.';
   });
   $('bundle-file').addEventListener('change', async event => {
@@ -680,6 +706,10 @@
     if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') { event.preventDefault(); seekTo(audio.currentTime + (event.code === 'ArrowLeft' ? -5 : 5)); }
   });
   function frame() { if (transport.wantsPlay()) updatePosition(); state.raf = requestAnimationFrame(frame); }
+  if (typeof ResizeObserver === 'function') {
+    new ResizeObserver(entries => document.documentElement.style.setProperty('--transport-offset',
+      (entries[0].target.getBoundingClientRect().height+20)+'px')).observe(document.querySelector('.transport'));
+  }
   state.raf = requestAnimationFrame(frame);
   root.addEventListener('pagehide', () => { transport.pause(); cancelAnimationFrame(state.raf); });
   const path = new URLSearchParams(location.search).get('bundle');
